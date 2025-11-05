@@ -1,0 +1,7660 @@
+[
+  {
+    "question": "Which of the following is the correct way to create a list in Python?",
+    "options": [
+      "list = (1, 2, 3)",
+      "list = [1, 2, 3]",
+      "list = {1, 2, 3}",
+      "list = <1, 2, 3>"
+    ],
+    "correctAns": "list = [1, 2, 3]",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the 'continue' statement do in a loop?",
+    "options": [
+      "Exits the entire loop",
+      "Skips the current iteration",
+      "Restarts the loop from beginning",
+      "Pauses the loop temporarily"
+    ],
+    "correctAns": "Skips the current iteration",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which data type is mutable in Python?",
+    "options": [
+      "Tuple",
+      "String",
+      "List",
+      "Integer"
+    ],
+    "correctAns": "List",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the output of print(3 * 'hi'?)",
+    "options": [
+      "hihihi",
+      "3hi",
+      "Error",
+      "hi hi hi"
+    ],
+    "correctAns": "hihihi",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "How do you define a function in Python?",
+    "options": [
+      "function my_func():",
+      "def my_func():",
+      "define my_func():",
+      "func my_func():"
+    ],
+    "correctAns": "def my_func():",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which method adds an element to the end of a list?",
+    "options": [
+      "append()",
+      "add()",
+      "insert()",
+      "extend()"
+    ],
+    "correctAns": "append()",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the 'self' parameter represent in a class method?",
+    "options": [
+      "The class itself",
+      "The parent class",
+      "The current object instance",
+      "A static method"
+    ],
+    "correctAns": "The current object instance",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": [
+      "^",
+      "**",
+      "^^",
+      "exp()"
+    ],
+    "correctAns": "**",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "How do you open a file for reading in Python?",
+    "options": [
+      "open(file, 'read')",
+      "open(file, 'r')",
+      "open(file, 'readonly')",
+      "open(file, 'input')"
+    ],
+    "correctAns": "open(file, 'r')",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the result of bool('False') in Python?",
+    "options": [
+      "False",
+      "True",
+      "Error",
+      "None"
+    ],
+    "correctAns": "True",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which of these creates a dictionary?",
+    "options": [
+      "{1, 2, 3}",
+      "[1, 2, 3]",
+      "(1, 2, 3)",
+      "{\"key\": \"value\"}"
+    ],
+    "correctAns": "{\"key\": \"value\"}",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the range(1, 5) function generate?",
+    "options": [
+      "[1, 2, 3, 4, 5]",
+      "[1, 2, 3, 4]",
+      "[0, 1, 2, 3, 4]",
+      "[1, 5]"
+    ],
+    "correctAns": "[1, 2, 3, 4]",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the primary purpose of a Business Model Canvas?",
+    "options": [
+      "To create detailed financial statements",
+      "To visualize and communicate business strategy",
+      "To register a business legally",
+      "To design marketing materials"
+    ],
+    "correctAns": "To visualize and communicate business strategy",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which funding method maintains complete founder ownership?",
+    "options": [
+      "Venture Capital",
+      "Angel Investment",
+      "Bootstrapping",
+      "Bank Loans"
+    ],
+    "correctAns": "Bootstrapping",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does MVP stand for in entrepreneurship?",
+    "options": [
+      "Most Valuable Product",
+      "Minimum Viable Product",
+      "Maximum Value Proposition",
+      "Main Venture Partnership"
+    ],
+    "correctAns": "Minimum Viable Product",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which analysis examines Political, Economic, Social, and Technological factors?",
+    "options": [
+      "SWOT Analysis",
+      "PESTLE Analysis",
+      "Porter's Five Forces",
+      "Break-even Analysis"
+    ],
+    "correctAns": "PESTLE Analysis",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the main goal of customer development?",
+    "options": [
+      "To maximize immediate sales",
+      "To understand and validate customer needs",
+      "To reduce customer service costs",
+      "To create advertising campaigns"
+    ],
+    "correctAns": "To understand and validate customer needs",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which metric measures how long customers stay with a business?",
+    "options": [
+      "Customer Acquisition Cost",
+      "Customer Lifetime Value",
+      "Conversion Rate",
+      "Churn Rate"
+    ],
+    "correctAns": "Customer Lifetime Value",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the purpose of a burn rate calculation?",
+    "options": [
+      "To measure employee productivity",
+      "To track cash consumption in startups",
+      "To calculate manufacturing costs",
+      "To assess marketing ROI"
+    ],
+    "correctAns": "To track cash consumption in startups",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which strategy focuses on attracting customers through valuable content?",
+    "options": [
+      "Content Marketing",
+      "Direct Sales",
+      "Cold Calling",
+      "Trade Shows"
+    ],
+    "correctAns": "Content Marketing",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does SEO stand for in digital marketing?",
+    "options": [
+      "Social Engagement Optimization",
+      "Search Engine Optimization",
+      "Sales Efficiency Operations",
+      "Strategic Expansion Objectives"
+    ],
+    "correctAns": "Search Engine Optimization",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which stage comes first in the sales funnel?",
+    "options": [
+      "Purchase",
+      "Evaluation",
+      "Awareness",
+      "Retention"
+    ],
+    "correctAns": "Awareness",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the main advantage of bootstrapping?",
+    "options": [
+      "Rapid scaling",
+      "Maintaining control and ownership",
+      "Access to expert networks",
+      "Large initial funding"
+    ],
+    "correctAns": "Maintaining control and ownership",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which document outlines investment terms in venture capital?",
+    "options": [
+      "Business Plan",
+      "Term Sheet",
+      "Pitch Deck",
+      "Financial Statements"
+    ],
+    "correctAns": "Term Sheet",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the purpose of the useState hook in React?",
+    "options": [
+      "To manage side effects",
+      "To add state to functional components",
+      "To handle routing",
+      "To optimize performance"
+    ],
+    "correctAns": "To add state to functional components",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which hook is used for performing side effects in functional components?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useContext",
+      "useReducer"
+    ],
+    "correctAns": "useEffect",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is JSX?",
+    "options": [
+      "A JavaScript framework",
+      "A syntax extension for JavaScript",
+      "A state management library",
+      "A build tool"
+    ],
+    "correctAns": "A syntax extension for JavaScript",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "How do you pass data from parent to child component?",
+    "options": [
+      "Using state",
+      "Using hooks",
+      "Using props",
+      "Using context"
+    ],
+    "correctAns": "Using props",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the correct way to update state based on previous state?",
+    "options": [
+      "setState(state + 1)",
+      "setState(prevState => prevState + 1)",
+      "state = state + 1",
+      "this.state = this.state + 1"
+    ],
+    "correctAns": "setState(prevState => prevState + 1)",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which method is used to prevent default behavior in event handlers?",
+    "options": [
+      "stopPropagation()",
+      "preventDefault()",
+      "cancelEvent()",
+      "stopDefault()"
+    ],
+    "correctAns": "preventDefault()",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the dependency array in useEffect control?",
+    "options": [
+      "Component rendering",
+      "When the effect runs",
+      "State updates",
+      "Prop changes"
+    ],
+    "correctAns": "When the effect runs",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which hook is used to access context in a functional component?",
+    "options": [
+      "useContext",
+      "useContextValue",
+      "useContextState",
+      "useContextProvider"
+    ],
+    "correctAns": "useContext",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the purpose of React.memo?",
+    "options": [
+      "To memoize values",
+      "To optimize performance by preventing re-renders",
+      "To manage memory",
+      "To create memoized callbacks"
+    ],
+    "correctAns": "To optimize performance by preventing re-renders",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which library is commonly used for routing in React applications?",
+    "options": [
+      "React Router",
+      "React Route",
+      "React Navigation",
+      "React Path"
+    ],
+    "correctAns": "React Router",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the children prop used for?",
+    "options": [
+      "Child components",
+      "Component composition",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correctAns": "Both A and B",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which hook is preferable for complex state logic?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useReducer",
+      "useContext"
+    ],
+    "correctAns": "useReducer",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the primary purpose of a blockchain?",
+    "options": [
+      "To create digital currency",
+      "To provide a decentralized, immutable ledger",
+      "To replace traditional databases",
+      "To enable anonymous transactions"
+    ],
+    "correctAns": "To provide a decentralized, immutable ledger",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which cryptographic concept ensures data cannot be changed once added to blockchain?",
+    "explain": "Immutability is achieved through cryptographic hashing where each block contains the hash of the previous block, making it computationally infeasible to alter historical records.",
+    "options": [
+      "Encryption",
+      "Hashing",
+      "Digital signatures",
+      "Key exchange"
+    ],
+    "correctAns": "Hashing",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What consensus mechanism does Bitcoin use?",
+    "options": [
+      "Proof of Stake",
+      "Proof of Work",
+      "Delegated Proof of Stake",
+      "Proof of Authority"
+    ],
+    "correctAns": "Proof of Work",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is a smart contract?",
+    "options": [
+      "A legal document on blockchain",
+      "Self-executing code with predefined rules",
+      "A type of cryptocurrency wallet",
+      "A blockchain consensus algorithm"
+    ],
+    "correctAns": "Self-executing code with predefined rules",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which of these is NOT a characteristic of blockchain?",
+    "options": [
+      "Decentralization",
+      "Immutability",
+      "Transparency",
+      "High transaction speed"
+    ],
+    "correctAns": "High transaction speed",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does PoS stand for in blockchain context?",
+    "options": [
+      "Proof of Service",
+      "Proof of Stake",
+      "Proof of Security",
+      "Proof of Storage"
+    ],
+    "correctAns": "Proof of Stake",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which problem does blockchain primarily solve?",
+    "options": [
+      "The speed of transactions",
+      "The need for trusted intermediaries",
+      "Data storage costs",
+      "Network bandwidth"
+    ],
+    "correctAns": "The need for trusted intermediaries",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the role of miners in Proof of Work?",
+    "options": [
+      "To validate transactions and create new blocks",
+      "To store the entire blockchain",
+      "To develop smart contracts",
+      "To manage user wallets"
+    ],
+    "correctAns": "To validate transactions and create new blocks",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which cryptocurrency first implemented blockchain technology?",
+    "options": [
+      "Ethereum",
+      "Bitcoin",
+      "Litecoin",
+      "Ripple"
+    ],
+    "correctAns": "Bitcoin",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is a Merkle tree used for in blockchain?",
+    "options": [
+      "To store private keys",
+      "To efficiently verify large datasets",
+      "To mine new blocks",
+      "To create digital signatures"
+    ],
+    "correctAns": "To efficiently verify large datasets",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which of these is a key feature of smart contracts?",
+    "options": [
+      "They require legal enforcement",
+      "They are automatically executable",
+      "They can be easily modified after deployment",
+      "They only work with Bitcoin"
+    ],
+    "correctAns": "They are automatically executable",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the main advantage of Proof of Stake over Proof of Work?",
+    "options": [
+      "Better security",
+      "Higher energy efficiency",
+      "More decentralized",
+      "Faster block creation"
+    ],
+    "correctAns": "Higher energy efficiency",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the CIA triad in cybersecurity represent?",
+    "options": [
+      "Confidentiality, Integrity, Availability",
+      "Cybersecurity, Intelligence, Analysis",
+      "Control, Inspection, Authentication",
+      "Confidentiality, Inspection, Authorization"
+    ],
+    "correctAns": "Confidentiality, Integrity, Availability",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which encryption method uses the same key for encryption and decryption?",
+    "options": [
+      "Asymmetric encryption",
+      "Symmetric encryption",
+      "Public key encryption",
+      "Hash encryption"
+    ],
+    "correctAns": "Symmetric encryption",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the primary purpose of a firewall?",
+    "options": [
+      "To encrypt network traffic",
+      "To control network traffic between zones",
+      "To detect viruses",
+      "To manage user passwords"
+    ],
+    "correctAns": "To control network traffic between zones",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which web application vulnerability allows execution of malicious scripts in user browsers?",
+    "options": [
+      "SQL Injection",
+      "Cross-Site Scripting (XSS)",
+      "CSRF",
+      "Buffer Overflow"
+    ],
+    "correctAns": "Cross-Site Scripting (XSS)",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does multi-factor authentication require?",
+    "options": [
+      "Multiple passwords",
+      "Multiple verification methods",
+      "Multiple email addresses",
+      "Multiple security questions"
+    ],
+    "correctAns": "Multiple verification methods",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which cryptographic concept ensures data cannot be reversed to original form?",
+    "options": [
+      "Encryption",
+      "Hashing",
+      "Encoding",
+      "Compression"
+    ],
+    "correctAns": "Hashing",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the main goal of incident response?",
+    "options": [
+      "To prevent all attacks",
+      "To minimize business impact",
+      "To prosecute attackers",
+      "To implement new security tools"
+    ],
+    "correctAns": "To minimize business impact",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which protocol provides secure remote access to systems?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SSH",
+      "Telnet"
+    ],
+    "correctAns": "SSH",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does SIEM stand for in security operations?",
+    "options": [
+      "Security Incident and Event Management",
+      "System Integrity and Encryption Module",
+      "Secure Internet Exchange Mechanism",
+      "Security Information and Event Management"
+    ],
+    "correctAns": "Security Information and Event Management",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which principle grants users only the access they need?",
+    "options": [
+      "Defense in depth",
+      "Least privilege",
+      "Separation of duties",
+      "Complete mediation"
+    ],
+    "correctAns": "Least privilege",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What type of attack involves creating fake wireless networks?",
+    "options": [
+      "Phishing",
+      "Evil twin",
+      "DNS spoofing",
+      "Man-in-the-middle"
+    ],
+    "correctAns": "Evil twin",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which organization maintains the OWASP Top 10 list?",
+    "options": [
+      "Open Web Application Security Project",
+      "Organization for Web Application Security Protocols",
+      "Official Web Application Security Program",
+      "Open Website Application Security Project"
+    ],
+    "correctAns": "Open Web Application Security Project",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the main goal of supervised learning?",
+    "options": [
+      "To find patterns in unlabeled data",
+      "To learn from labeled examples",
+      "To optimize rewards through trial and error",
+      "To reduce data dimensionality"
+    ],
+    "correctAns": "To learn from labeled examples",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which metric is most appropriate for imbalanced classification problems?",
+    "options": [
+      "Accuracy",
+      "F1-Score",
+      "R-squared",
+      "Mean Absolute Error"
+    ],
+    "correctAns": "F1-Score",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the 'K' represent in K-fold cross-validation?",
+    "options": [
+      "Kernel type",
+      "Number of features",
+      "Number of folds",
+      "Number of clusters"
+    ],
+    "correctAns": "Number of folds",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which algorithm uses a 'kernel trick' to handle nonlinear data?",
+    "options": [
+      "Linear Regression",
+      "Decision Trees",
+      "Support Vector Machines",
+      "K-Nearest Neighbors"
+    ],
+    "correctAns": "Support Vector Machines",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the purpose of feature scaling in machine learning?",
+    "options": [
+      "To reduce dataset size",
+      "To ensure all features contribute equally",
+      "To remove outliers",
+      "To handle missing values"
+    ],
+    "correctAns": "To ensure all features contribute equally",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which technique helps prevent overfitting in decision trees?",
+    "options": [
+      "Increasing tree depth",
+      "Adding more features",
+      "Pruning",
+      "Using larger datasets"
+    ],
+    "correctAns": "Pruning",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does PCA stand for in machine learning?",
+    "options": [
+      "Principal Component Analysis",
+      "Primary Classification Algorithm",
+      "Pattern Correlation Assessment",
+      "Predictive Clustering Approach"
+    ],
+    "correctAns": "Principal Component Analysis",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which type of learning uses rewards and penalties?",
+    "options": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Semi-supervised Learning"
+    ],
+    "correctAns": "Reinforcement Learning",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the main advantage of ensemble methods?",
+    "options": [
+      "Faster training time",
+      "Better generalization performance",
+      "Simpler implementation",
+      "Fewer hyperparameters"
+    ],
+    "correctAns": "Better generalization performance",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which preprocessing technique converts categories to binary columns?",
+    "options": [
+      "Label Encoding",
+      "One-Hot Encoding",
+      "Standardization",
+      "Normalization"
+    ],
+    "correctAns": "One-Hot Encoding",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does ROC curve represent?",
+    "options": [
+      "Training progress over time",
+      "Feature importance scores",
+      "Tradeoff between true positive and false positive rates",
+      "Model complexity vs performance"
+    ],
+    "correctAns": "Tradeoff between true positive and false positive rates",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which algorithm is most interpretable for business stakeholders?",
+    "options": [
+      "Neural Networks",
+      "Support Vector Machines",
+      "Decision Trees",
+      "Ensemble Methods"
+    ],
+    "correctAns": "Decision Trees",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which programming language is primarily used for iOS development?",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Swift",
+      "JavaScript"
+    ],
+    "correctAns": "Swift",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the main advantage of cross-platform development?",
+    "options": [
+      "Better performance",
+      "Code reuse across platforms",
+      "Access to latest APIs",
+      "Easier app store approval"
+    ],
+    "correctAns": "Code reuse across platforms",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which component represents a single screen in Android?",
+    "options": [
+      "Fragment",
+      "Activity",
+      "Service",
+      "Broadcast Receiver"
+    ],
+    "correctAns": "Activity",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does MVC stand for in app architecture?",
+    "options": [
+      "Model-View-Controller",
+      "Main-View-Component",
+      "Mobile-View-Configuration",
+      "Model-View-Container"
+    ],
+    "correctAns": "Model-View-Controller",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which framework uses Dart programming language?",
+    "options": [
+      "React Native",
+      "Flutter",
+      "Ionic",
+      "Xamarin"
+    ],
+    "correctAns": "Flutter",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the minimum recommended touch target size in points?",
+    "options": [
+      "22x22",
+      "44x44",
+      "66x66",
+      "88x88"
+    ],
+    "correctAns": "44x44",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which tool is used for Android development?",
+    "options": [
+      "Xcode",
+      "Android Studio",
+      "Visual Studio",
+      "Eclipse"
+    ],
+    "correctAns": "Android Studio",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does JSX combine in React Native?",
+    "options": [
+      "Java and XML",
+      "JavaScript and XML",
+      "JSON and XML",
+      "Java and Swift"
+    ],
+    "correctAns": "JavaScript and XML",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which testing verifies individual components work correctly?",
+    "options": [
+      "Integration Testing",
+      "Unit Testing",
+      "UI Testing",
+      "Performance Testing"
+    ],
+    "correctAns": "Unit Testing",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the annual cost for Apple Developer Program?",
+    "options": [
+      "$25",
+      "$99",
+      "$199",
+      "Free"
+    ],
+    "correctAns": "$99",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which pattern handles communication between objects in iOS?",
+    "options": [
+      "Singleton",
+      "Delegation",
+      "Observer",
+      "Factory"
+    ],
+    "correctAns": "Delegation",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does CI stand for in development?",
+    "options": [
+      "Continuous Integration",
+      "Code Inspection",
+      "Component Interface",
+      "Compilation Instruction"
+    ],
+    "correctAns": "Continuous Integration",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Question Language",
+      "System Query Logic",
+      "Structured Question Logic"
+    ],
+    "correctAns": "Structured Query Language",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which SQL clause is used to filter query results?",
+    "options": [
+      "GROUP BY",
+      "ORDER BY",
+      "WHERE",
+      "HAVING"
+    ],
+    "correctAns": "WHERE",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What type of JOIN returns all rows from both tables?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "correctAns": "FULL OUTER JOIN",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which function calculates the average value in a column?",
+    "options": [
+      "COUNT()",
+      "SUM()",
+      "AVG()",
+      "TOTAL()"
+    ],
+    "correctAns": "AVG()",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does ACID stand for in database transactions?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accuracy, Consistency, Integrity, Durability",
+      "Atomicity, Control, Isolation, Duration",
+      "Accuracy, Control, Integrity, Duration"
+    ],
+    "correctAns": "Atomicity, Consistency, Isolation, Durability",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which normal form eliminates repeating groups?",
+    "options": [
+      "First Normal Form",
+      "Second Normal Form",
+      "Third Normal Form",
+      "Boyce-Codd Normal Form"
+    ],
+    "correctAns": "First Normal Form",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the purpose of a PRIMARY KEY?",
+    "options": [
+      "To speed up queries",
+      "To uniquely identify each row",
+      "To link tables together",
+      "To enforce data types"
+    ],
+    "correctAns": "To uniquely identify each row",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which statement is used to add new rows to a table?",
+    "options": [
+      "ADD",
+      "INSERT",
+      "CREATE",
+      "UPDATE"
+    ],
+    "correctAns": "INSERT",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does the GROUP BY clause do?",
+    "options": [
+      "Filters rows",
+      "Sorts results",
+      "Groups rows with same values",
+      "Limits output"
+    ],
+    "correctAns": "Groups rows with same values",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which operator is used for pattern matching?",
+    "options": [
+      "=",
+      "LIKE",
+      "MATCH",
+      "CONTAINS"
+    ],
+    "correctAns": "LIKE",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is a foreign key?",
+    "options": [
+      "A key that uniquely identifies a row",
+      "A key that links to a primary key in another table",
+      "A key that is always unique",
+      "A key used for encryption"
+    ],
+    "correctAns": "A key that links to a primary key in another table",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which SQL command is used to modify existing data?",
+    "options": [
+      "ALTER",
+      "MODIFY",
+      "UPDATE",
+      "CHANGE"
+    ],
+    "correctAns": "UPDATE",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does EC2 stand for in AWS?",
+    "options": [
+      "Elastic Compute Cloud",
+      "Elastic Cloud Compute",
+      "Enterprise Computing Cloud",
+      "Elastic Container Cloud"
+    ],
+    "correctAns": "Elastic Compute Cloud",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which AWS service provides object storage?",
+    "options": [
+      "EBS",
+      "EFS",
+      "S3",
+      "Glacier"
+    ],
+    "correctAns": "S3",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the primary purpose of an AWS VPC?",
+    "options": [
+      "Virtual Private Cloud for network isolation",
+      "Virtual Public Cloud for internet access",
+      "Virtual Processing Center for compute",
+      "Virtual Storage Center for data"
+    ],
+    "correctAns": "Virtual Private Cloud for network isolation",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which service allows running code without managing servers?",
+    "options": [
+      "EC2",
+      "Lambda",
+      "Elastic Beanstalk",
+      "ECS"
+    ],
+    "correctAns": "Lambda",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does IAM stand for in AWS?",
+    "options": [
+      "Identity and Access Management",
+      "Infrastructure Access Management",
+      "Internet Account Management",
+      "Integrated Access Management"
+    ],
+    "correctAns": "Identity and Access Management",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which database service is fully managed and NoSQL?",
+    "options": [
+      "RDS",
+      "Redshift",
+      "DynamoDB",
+      "Aurora"
+    ],
+    "correctAns": "DynamoDB",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the AWS service for DNS management?",
+    "options": [
+      "CloudFront",
+      "Route 53",
+      "API Gateway",
+      "Direct Connect"
+    ],
+    "correctAns": "Route 53",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which service automatically scales EC2 instances?",
+    "options": [
+      "Load Balancer",
+      "Auto Scaling",
+      "CloudWatch",
+      "Elastic Beanstalk"
+    ],
+    "correctAns": "Auto Scaling",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does EBS provide?",
+    "options": [
+      "Object storage",
+      "Block storage",
+      "File storage",
+      "Archive storage"
+    ],
+    "correctAns": "Block storage",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which service monitors AWS resources?",
+    "options": [
+      "CloudTrail",
+      "CloudWatch",
+      "Config",
+      "Trusted Advisor"
+    ],
+    "correctAns": "CloudWatch",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is CloudFormation used for?",
+    "options": [
+      "Infrastructure as Code",
+      "Container management",
+      "Serverless computing",
+      "Data analytics"
+    ],
+    "correctAns": "Infrastructure as Code",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which storage class is for archival data?",
+    "options": [
+      "S3 Standard",
+      "S3 Intelligent-Tiering",
+      "S3 Glacier",
+      "S3 Standard-IA"
+    ],
+    "correctAns": "S3 Glacier",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the purpose of an emergency fund?",
+    "options": [
+      "To invest in stocks",
+      "To cover unexpected expenses",
+      "To pay for vacations",
+      "To buy luxury items"
+    ],
+    "correctAns": "To cover unexpected expenses",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which debt repayment method focuses on paying highest interest first?",
+    "options": [
+      "Snowball method",
+      "Avalanche method",
+      "Consolidation method",
+      "Minimum payment method"
+    ],
+    "correctAns": "Avalanche method",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What percentage of income should go to needs in the 50/30/20 budget?",
+    "options": [
+      "20%",
+      "30%",
+      "50%",
+      "70%"
+    ],
+    "correctAns": "50%",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which retirement account offers tax-free withdrawals?",
+    "options": [
+      "Traditional IRA",
+      "Roth IRA",
+      "401(k)",
+      "Taxable brokerage"
+    ],
+    "correctAns": "Roth IRA",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the most important factor in credit scores?",
+    "options": [
+      "Credit utilization",
+      "Payment history",
+      "Length of history",
+      "Credit mix"
+    ],
+    "correctAns": "Payment history",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which is considered \"good debt\"?",
+    "options": [
+      "Credit card debt",
+      "Payday loans",
+      "Student loans",
+      "Auto title loans"
+    ],
+    "correctAns": "Student loans",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does net worth measure?",
+    "options": [
+      "Monthly income",
+      "Assets minus liabilities",
+      "Credit score",
+      "Investment returns"
+    ],
+    "correctAns": "Assets minus liabilities",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which budgeting method assigns every dollar a purpose?",
+    "options": [
+      "50/30/20 method",
+      "Zero-based budgeting",
+      "Envelope system",
+      "Pay-yourself-first"
+    ],
+    "correctAns": "Zero-based budgeting",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is compound growth?",
+    "options": [
+      "Earning interest on principal only",
+      "Earning interest on principal and accumulated interest",
+      "Linear growth of investments",
+      "Guaranteed investment returns"
+    ],
+    "correctAns": "Earning interest on principal and accumulated interest",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which insurance is typically legally required?",
+    "options": [
+      "Life insurance",
+      "Disability insurance",
+      "Auto insurance",
+      "Renters insurance"
+    ],
+    "correctAns": "Auto insurance",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does SMART stand for in goal setting?",
+    "options": [
+      "Specific, Measurable, Achievable, Relevant, Time-bound",
+      "Simple, Meaningful, Actionable, Realistic, Timely",
+      "Strategic, Manageable, Attainable, Reasonable, Targeted",
+      "Structured, Meaningful, Achievable, Relevant, Trackable"
+    ],
+    "correctAns": "Specific, Measurable, Achievable, Relevant, Time-bound",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the recommended emergency fund size?",
+    "options": [
+      "1-2 months expenses",
+      "3-6 months expenses",
+      "6-12 months expenses",
+      "1 year of income"
+    ],
+    "correctAns": "3-6 months expenses",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does a stock represent?",
+    "options": [
+      "A loan to a company",
+      "Ownership in a company",
+      "A guaranteed return",
+      "A government bond"
+    ],
+    "correctAns": "Ownership in a company",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which investment strategy involves regular fixed investments?",
+    "options": [
+      "Market timing",
+      "Dollar cost averaging",
+      "Day trading",
+      "Sector rotation"
+    ],
+    "correctAns": "Dollar cost averaging",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the primary benefit of diversification?",
+    "options": [
+      "Guaranteed returns",
+      "Risk reduction",
+      "Higher commissions",
+      "Tax avoidance"
+    ],
+    "correctAns": "Risk reduction",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which account offers tax-free withdrawals in retirement?",
+    "options": [
+      "Traditional IRA",
+      "Roth IRA",
+      "Taxable brokerage",
+      "401(k)"
+    ],
+    "correctAns": "Roth IRA",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does P/E ratio measure?",
+    "options": [
+      "Price to earnings",
+      "Profit to expense",
+      "Principal to equity",
+      "Payment to employer"
+    ],
+    "correctAns": "Price to earnings",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which market condition features rising prices?",
+    "options": [
+      "Bear market",
+      "Bull market",
+      "Sideways market",
+      "Correction"
+    ],
+    "correctAns": "Bull market",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is asset allocation?",
+    "options": [
+      "Dividing investments among categories",
+      "Timing market entries",
+      "Selecting individual stocks",
+      "Calculating taxes"
+    ],
+    "correctAns": "Dividing investments among categories",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which investment approach seeks undervalued companies?",
+    "options": [
+      "Growth investing",
+      "Value investing",
+      "Momentum investing",
+      "Technical analysis"
+    ],
+    "correctAns": "Value investing",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What protects brokerage accounts up to $500,000?",
+    "options": [
+      "FDIC",
+      "SIPC",
+      "SEC",
+      "FINRA"
+    ],
+    "correctAns": "SIPC",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which metric shows dividend percentage of stock price?",
+    "options": [
+      "P/E ratio",
+      "Dividend yield",
+      "EPS",
+      "Market cap"
+    ],
+    "correctAns": "Dividend yield",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the main advantage of buy and hold strategy?",
+    "options": [
+      "Frequent trading",
+      "Reduced costs and taxes",
+      "Market timing",
+      "Leverage"
+    ],
+    "correctAns": "Reduced costs and taxes",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which rule suggests stock percentage as 100 minus age?",
+    "options": [
+      "Rebalancing rule",
+      "Asset allocation rule",
+      "Diversification rule",
+      "Withdrawal rule"
+    ],
+    "correctAns": "Asset allocation rule",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does SEO stand for?",
+    "options": [
+      "Social Engagement Optimization",
+      "Search Engine Optimization",
+      "Sales Enhancement Operations",
+      "Strategic Engagement Objectives"
+    ],
+    "correctAns": "Search Engine Optimization",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which platform is best for B2B marketing?",
+    "options": [
+      "TikTok",
+      "Instagram",
+      "LinkedIn",
+      "Pinterest"
+    ],
+    "correctAns": "LinkedIn",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is a lead magnet?",
+    "options": [
+      "A type of advertisement",
+      "Free content offered for email signups",
+      "A social media post",
+      "A paid search campaign"
+    ],
+    "correctAns": "Free content offered for email signups",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which metric measures email campaign success?",
+    "options": [
+      "Bounce rate",
+      "Open rate",
+      "Page views",
+      "Social shares"
+    ],
+    "correctAns": "Open rate",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does CTA stand for?",
+    "options": [
+      "Click Through Analysis",
+      "Call To Action",
+      "Content Tracking Algorithm",
+      "Customer Targeting Approach"
+    ],
+    "correctAns": "Call To Action",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which channel typically has the highest ROI?",
+    "options": [
+      "Social media ads",
+      "Email marketing",
+      "Influencer marketing",
+      "Print advertising"
+    ],
+    "correctAns": "Email marketing",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the 80/20 rule in social media?",
+    "options": [
+      "80% paid, 20% organic",
+      "80% value content, 20% promotional",
+      "80% video, 20% text",
+      "80% posting, 20% engaging"
+    ],
+    "correctAns": "80% value content, 20% promotional",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which tool tracks website analytics?",
+    "options": [
+      "Google Analytics",
+      "Facebook Insights",
+      "Mailchimp",
+      "Hootsuite"
+    ],
+    "correctAns": "Google Analytics",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is retargeting?",
+    "options": [
+      "Changing marketing strategies",
+      "Advertising to previous website visitors",
+      "Updating website content",
+      "Analyzing old campaign data"
+    ],
+    "correctAns": "Advertising to previous website visitors",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which content type typically generates highest engagement?",
+    "options": [
+      "Text posts",
+      "Video content",
+      "Infographics",
+      "PDF downloads"
+    ],
+    "correctAns": "Video content",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is A/B testing?",
+    "options": [
+      "Analyzing two different markets",
+      "Comparing two versions of marketing elements",
+      "Testing across different platforms",
+      "Alternating between strategies"
+    ],
+    "correctAns": "Comparing two versions of marketing elements",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which stage comes first in customer journey?",
+    "options": [
+      "Conversion",
+      "Consideration",
+      "Awareness",
+      "Loyalty"
+    ],
+    "correctAns": "Awareness",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What are the three elements of the triple constraint?",
+    "options": [
+      "Scope, Time, Cost",
+      "Quality, Risk, Resources",
+      "Time, Quality, Stakeholders",
+      "Cost, Scope, Communication"
+    ],
+    "correctAns": "Scope, Time, Cost",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which methodology uses sequential phases?",
+    "options": [
+      "Agile",
+      "Scrum",
+      "Waterfall",
+      "Kanban"
+    ],
+    "correctAns": "Waterfall",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does WBS stand for?",
+    "options": [
+      "Work Breakdown Structure",
+      "Work Budget System",
+      "Weekly Basic Schedule",
+      "Work Balance Sheet"
+    ],
+    "correctAns": "Work Breakdown Structure",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which Agile event occurs daily?",
+    "options": [
+      "Sprint Planning",
+      "Retrospective",
+      "Daily Stand-up",
+      "Sprint Review"
+    ],
+    "correctAns": "Daily Stand-up",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the primary purpose of risk management?",
+    "options": [
+      "Eliminate all risks",
+      "Identify and mitigate potential problems",
+      "Increase project budget",
+      "Speed up project timeline"
+    ],
+    "correctAns": "Identify and mitigate potential problems",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which document tracks project problems?",
+    "options": [
+      "Risk register",
+      "Issue log",
+      "Stakeholder map",
+      "Communication plan"
+    ],
+    "correctAns": "Issue log",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does EVM stand for?",
+    "options": [
+      "Executive Value Management",
+      "Earned Value Management",
+      "Effective Variance Measurement",
+      "Efficiency Value Metric"
+    ],
+    "correctAns": "Earned Value Management",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which role owns the product backlog in Scrum?",
+    "options": [
+      "Scrum Master",
+      "Project Manager",
+      "Product Owner",
+      "Development Team"
+    ],
+    "correctAns": "Product Owner",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is scope creep?",
+    "options": [
+      "Project moving faster",
+      "Unauthorized scope expansion",
+      "Team size increasing",
+      "Budget decreasing"
+    ],
+    "correctAns": "Unauthorized scope expansion",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which chart shows task dependencies?",
+    "options": [
+      "Gantt chart",
+      "Pie chart",
+      "Bar chart",
+      "Scatter plot"
+    ],
+    "correctAns": "Gantt chart",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the purpose of a stakeholder analysis?",
+    "options": [
+      "Track project costs",
+      "Identify and understand project influencers",
+      "Schedule team meetings",
+      "Create project documentation"
+    ],
+    "correctAns": "Identify and understand project influencers",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which methodology emphasizes iterative development?",
+    "options": [
+      "Waterfall",
+      "Agile",
+      "Traditional",
+      "Sequential"
+    ],
+    "correctAns": "Agile",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the fundamental accounting equation?",
+    "options": [
+      "Assets = Revenue - Expenses",
+      "Assets = Liabilities + Equity",
+      "Liabilities = Assets + Equity",
+      "Equity = Assets - Revenue"
+    ],
+    "correctAns": "Assets = Liabilities + Equity",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which financial statement shows performance over time?",
+    "options": [
+      "Balance Sheet",
+      "Income Statement",
+      "Cash Flow Statement",
+      "Statement of Equity"
+    ],
+    "correctAns": "Income Statement",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does GAAP stand for?",
+    "options": [
+      "General Accounting and Auditing Procedures",
+      "Generally Accepted Accounting Principles",
+      "Government Approved Accounting Practices",
+      "Global Accounting Assessment Program"
+    ],
+    "correctAns": "Generally Accepted Accounting Principles",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which principle matches expenses with revenues?",
+    "options": [
+      "Cost Principle",
+      "Matching Principle",
+      "Revenue Principle",
+      "Consistency Principle"
+    ],
+    "correctAns": "Matching Principle",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is recorded first in a journal entry?",
+    "options": [
+      "Credit account",
+      "Debit account",
+      "Date",
+      "Description"
+    ],
+    "correctAns": "Date",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which ratio measures short-term liquidity?",
+    "options": [
+      "Debt-to-Equity Ratio",
+      "Current Ratio",
+      "Return on Equity",
+      "Gross Margin Ratio"
+    ],
+    "correctAns": "Current Ratio",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What is the purpose of a trial balance?",
+    "options": [
+      "Prepare tax returns",
+      "Verify debits equal credits",
+      "Calculate depreciation",
+      "Analyze cash flow"
+    ],
+    "correctAns": "Verify debits equal credits",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which method records revenue when earned?",
+    "options": [
+      "Cash Accounting",
+      "Accrual Accounting",
+      "Tax Accounting",
+      "Managerial Accounting"
+    ],
+    "correctAns": "Accrual Accounting",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What does COGS stand for?",
+    "options": [
+      "Cost of Goods Sold",
+      "Cost of General Services",
+      "Calculation of Gross Sales",
+      "Cost of Goods Stored"
+    ],
+    "correctAns": "Cost of Goods Sold",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which statement shows cash movements?",
+    "options": [
+      "Balance Sheet",
+      "Income Statement",
+      "Cash Flow Statement",
+      "Statement of Equity"
+    ],
+    "correctAns": "Cash Flow Statement",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "What increases with a debit entry?",
+    "options": [
+      "Liabilities and Revenue",
+      "Assets and Expenses",
+      "Equity and Revenue",
+      "Liabilities and Equity"
+    ],
+    "correctAns": "Assets and Expenses",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which depreciation method charges equal expense?",
+    "options": [
+      "Declining Balance",
+      "Units of Production",
+      "Straight-line",
+      "Double Declining"
+    ],
+    "correctAns": "Straight-line",
+    "category": "Business & Finance"
+  },
+  {
+    "question": "Which macronutrient provides the most calories per gram?",
+    "options": [
+      "Carbohydrates",
+      "Protein",
+      "Fat",
+      "Fiber"
+    ],
+    "correctAns": "Fat",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What percentage of your plate should be vegetables according to the plate method?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "33%"
+    ],
+    "correctAns": "50%",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which cooking method best preserves nutrients in vegetables?",
+    "options": [
+      "Boiling",
+      "Frying",
+      "Steaming",
+      "Microwaving"
+    ],
+    "correctAns": "Steaming",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is mindful eating?",
+    "options": [
+      "Eating very quickly",
+      "Paying attention to food while eating",
+      "Counting every calorie",
+      "Eating only organic food"
+    ],
+    "correctAns": "Paying attention to food while eating",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which of these is a healthy fat source?",
+    "options": [
+      "Butter",
+      "Olive oil",
+      "Shortening",
+      "Margarine"
+    ],
+    "correctAns": "Olive oil",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "How many servings of fruits and vegetables are recommended daily?",
+    "options": [
+      "1-2",
+      "3-4",
+      "5-9",
+      "10-12"
+    ],
+    "correctAns": "5-9",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does the palm of your hand represent in portion control?",
+    "options": [
+      "Vegetable portion",
+      "Protein portion",
+      "Grain portion",
+      "Fat portion"
+    ],
+    "correctAns": "Protein portion",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which nutrient helps with feeling full and supports digestion?",
+    "options": [
+      "Sugar",
+      "Fiber",
+      "Protein",
+      "Fat"
+    ],
+    "correctAns": "Fiber",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What should you do before grocery shopping?",
+    "options": [
+      "Eat a big meal",
+      "Make a shopping list",
+      "Skip breakfast",
+      "Buy everything on sale"
+    ],
+    "correctAns": "Make a shopping list",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which of these is a whole grain?",
+    "options": [
+      "White bread",
+      "White rice",
+      "Oatmeal",
+      "Pasta"
+    ],
+    "correctAns": "Oatmeal",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is the primary function of carbohydrates?",
+    "options": [
+      "Build muscle",
+      "Provide energy",
+      "Support brain function",
+      "Repair tissues"
+    ],
+    "correctAns": "Provide energy",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which practice supports long-term healthy eating?",
+    "options": [
+      "Strict dieting",
+      "Complete restriction",
+      "Flexibility and balance",
+      "Eating only superfoods"
+    ],
+    "correctAns": "Flexibility and balance",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does 'yoga' mean in Sanskrit?",
+    "options": [
+      "Exercise",
+      "Union",
+      "Stretch",
+      "Peace"
+    ],
+    "correctAns": "Union",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which pose is commonly used as a resting position?",
+    "options": [
+      "Warrior II",
+      "Downward Dog",
+      "Child's Pose",
+      "Mountain Pose"
+    ],
+    "correctAns": "Child's Pose",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is pranayama?",
+    "options": [
+      "Physical postures",
+      "Breath control",
+      "Meditation",
+      "Ethical principles"
+    ],
+    "correctAns": "Breath control",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which breathing technique creates an ocean-like sound?",
+    "options": [
+      "Alternate nostril",
+      "Ujjayi",
+      "Bellows breath",
+      "Equal breathing"
+    ],
+    "correctAns": "Ujjayi",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What should you do if you feel pain during a pose?",
+    "options": [
+      "Push through it",
+      "Ignore it",
+      "Back off or modify",
+      "Breathe faster"
+    ],
+    "correctAns": "Back off or modify",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which of these is a standing pose?",
+    "options": [
+      "Child's Pose",
+      "Warrior II",
+      "Corpse Pose",
+      "Seated Forward Bend"
+    ],
+    "correctAns": "Warrior II",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is mindfulness?",
+    "options": [
+      "Multitasking",
+      "Present-moment awareness",
+      "Future planning",
+      "Critical thinking"
+    ],
+    "correctAns": "Present-moment awareness",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "How often should a beginner practice yoga?",
+    "options": [
+      "Once a month",
+      "Daily for hours",
+      "3-4 times weekly",
+      "Only with a teacher"
+    ],
+    "correctAns": "3-4 times weekly",
+    "category": "Health & Fitness"
+  },
+  {
+    "topic": "What is the foundation for all standing poses?",
+    "explain": "Mountain Pose (Tadasana) establishes proper alignment and body awareness that serves as the foundation for all standing yoga poses.",
+    "options": [
+      "Downward Dog",
+      "Warrior I",
+      "Mountain Pose",
+      "Tree Pose"
+    ],
+    "correctAns": "Mountain Pose",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which yoga prop helps with flexibility?",
+    "options": [
+      "Mat",
+      "Block",
+      "Strap",
+      "Bolster"
+    ],
+    "correctAns": "Strap",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does 'ahimsa' mean in yoga philosophy?",
+    "options": [
+      "Non-violence",
+      "Truthfulness",
+      "Contentment",
+      "Self-discipline"
+    ],
+    "correctAns": "Non-violence",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which practice involves scanning body sensations?",
+    "options": [
+      "Pranayama",
+      "Body scan",
+      "Asana",
+      "Meditation"
+    ],
+    "correctAns": "Body scan",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is the normal range for blood pressure?",
+    "options": [
+      "Below 120/80 mmHg",
+      "130-139/85-89 mmHg",
+      "140-159/90-99 mmHg",
+      "Above 160/100 mmHg"
+    ],
+    "correctAns": "Below 120/80 mmHg",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which type of exercise primarily uses oxygen for energy?",
+    "options": [
+      "Anaerobic",
+      "Aerobic",
+      "Resistance",
+      "Plyometric"
+    ],
+    "correctAns": "Aerobic",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does VO2 max measure?",
+    "options": [
+      "Vertical jump height",
+      "Maximum oxygen consumption",
+      "Blood volume",
+      "Heart size"
+    ],
+    "correctAns": "Maximum oxygen consumption",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which heart rate zone is best for fat burning?",
+    "options": [
+      "Zone 1 (50-60%)",
+      "Zone 2 (60-70%)",
+      "Zone 4 (80-90%)",
+      "Zone 5 (90-100%)"
+    ],
+    "correctAns": "Zone 2 (60-70%)",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is the principle of gradually increasing training demands?",
+    "options": [
+      "Specificity",
+      "Progressive overload",
+      "Reversibility",
+      "Individuality"
+    ],
+    "correctAns": "Progressive overload",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which activity is considered low-impact cardio?",
+    "options": [
+      "Running",
+      "Jumping rope",
+      "Swimming",
+      "Basketball"
+    ],
+    "correctAns": "Swimming",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does HIIT stand for?",
+    "options": [
+      "High Intensity Interval Training",
+      "Healthy Integrated Interval Technique",
+      "Heart Improvement Interval Training",
+      "High Impact Interval Technique"
+    ],
+    "correctAns": "High Intensity Interval Training",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which nutrient helps manage cholesterol levels?",
+    "options": [
+      "Fiber",
+      "Sugar",
+      "Saturated fat",
+      "Sodium"
+    ],
+    "correctAns": "Fiber",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is the recommended daily step count for health?",
+    "options": [
+      "3,000-5,000",
+      "7,000-10,000",
+      "12,000-15,000",
+      "20,000+"
+    ],
+    "correctAns": "7,000-10,000",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which type of cholesterol is considered 'good'?",
+    "options": [
+      "LDL",
+      "HDL",
+      "VLDL",
+      "Triglycerides"
+    ],
+    "correctAns": "HDL",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is the maximum heart rate estimate for a 40-year-old?",
+    "options": [
+      "160 bpm",
+      "180 bpm",
+      "200 bpm",
+      "220 bpm"
+    ],
+    "correctAns": "180 bpm",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which recovery strategy is most crucial for adaptation?",
+    "options": [
+      "Sleep",
+      "Supplements",
+      "Compression wear",
+      "Ice baths"
+    ],
+    "correctAns": "Sleep",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does mental health encompass?",
+    "options": [
+      "Only absence of mental illness",
+      "Emotional, psychological, and social wellbeing",
+      "Just thinking patterns",
+      "Only mood regulation"
+    ],
+    "correctAns": "Emotional, psychological, and social wellbeing",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which practice involves present-moment awareness?",
+    "options": [
+      "Rumination",
+      "Mindfulness",
+      "Worrying",
+      "Catastrophizing"
+    ],
+    "correctAns": "Mindfulness",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is resilience?",
+    "options": [
+      "Avoiding all difficulties",
+      "Never experiencing negative emotions",
+      "Ability to adapt and bounce back",
+      "Always being happy"
+    ],
+    "correctAns": "Ability to adapt and bounce back",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which communication technique uses \"I feel\" statements?",
+    "options": [
+      "Blaming",
+      "Assertive communication",
+      "Aggression",
+      "Passive aggression"
+    ],
+    "correctAns": "Assertive communication",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What does self-compassion involve?",
+    "options": [
+      "Self-criticism",
+      "Treating oneself with kindness",
+      "Ignoring problems",
+      "Blaming others"
+    ],
+    "correctAns": "Treating oneself with kindness",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which is a healthy coping mechanism?",
+    "options": [
+      "Substance use",
+      "Isolation",
+      "Physical activity",
+      "Avoidance"
+    ],
+    "correctAns": "Physical activity",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What are boundaries?",
+    "options": [
+      "Walls that isolate completely",
+      "Personal limits and acceptable behavior",
+      "Rules for others",
+      "Rigid restrictions"
+    ],
+    "correctAns": "Personal limits and acceptable behavior",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which practice supports digital wellness?",
+    "options": [
+      "Constant notifications",
+      "Screen time before bed",
+      "Tech-free zones",
+      "24/7 availability"
+    ],
+    "correctAns": "Tech-free zones",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "When should someone seek professional help?",
+    "options": [
+      "Only in emergencies",
+      "When symptoms persist and affect functioning",
+      "Never, it's a sign of weakness",
+      "Only for severe mental illness"
+    ],
+    "correctAns": "When symptoms persist and affect functioning",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What is growth mindset?",
+    "options": [
+      "Believing abilities are fixed",
+      "Viewing challenges as learning opportunities",
+      "Avoiding difficult tasks",
+      "Focusing only on natural talent"
+    ],
+    "correctAns": "Viewing challenges as learning opportunities",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which helps combat loneliness?",
+    "options": [
+      "Isolation",
+      "Joining groups with shared interests",
+      "Avoiding social situations",
+      "Waiting for others to reach out"
+    ],
+    "correctAns": "Joining groups with shared interests",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "What supports work-life balance?",
+    "options": [
+      "Working constantly",
+      "Setting clear boundaries",
+      "Always saying yes",
+      "Ignoring personal needs"
+    ],
+    "correctAns": "Setting clear boundaries",
+    "category": "Health & Fitness"
+  },
+  {
+    "question": "Which renewable source uses photovoltaic technology?",
+    "options": [
+      "Wind",
+      "Solar",
+      "Hydro",
+      "Geothermal"
+    ],
+    "correctAns": "Solar",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the main advantage of concentrated solar power?",
+    "options": [
+      "Works at night",
+      "Thermal energy storage",
+      "Lower cost than PV",
+      "No land required"
+    ],
+    "correctAns": "Thermal energy storage",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which country generates the highest percentage of electricity from wind?",
+    "options": [
+      "United States",
+      "China",
+      "Denmark",
+      "Germany"
+    ],
+    "correctAns": "Denmark",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does CSP stand for in solar energy?",
+    "options": [
+      "Concentrated Solar Power",
+      "Central Solar Plant",
+      "Commercial Solar Panel",
+      "Community Solar Project"
+    ],
+    "correctAns": "Concentrated Solar Power",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which energy storage technology is best for seasonal storage?",
+    "options": [
+      "Lithium-ion batteries",
+      "Pumped hydro",
+      "Hydrogen",
+      "Flywheels"
+    ],
+    "correctAns": "Hydrogen",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is green hydrogen produced from?",
+    "options": [
+      "Natural gas",
+      "Coal",
+      "Renewable electricity",
+      "Biomass"
+    ],
+    "correctAns": "Renewable electricity",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which renewable source provides baseload power?",
+    "options": [
+      "Solar PV",
+      "Wind",
+      "Geothermal",
+      "Tidal"
+    ],
+    "correctAns": "Geothermal",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the main challenge with solar and wind power?",
+    "options": [
+      "High cost",
+      "Intermittency",
+      "Land use",
+      "Noise pollution"
+    ],
+    "correctAns": "Intermittency",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which component converts DC to AC in solar systems?",
+    "options": [
+      "Charge controller",
+      "Inverter",
+      "Transformer",
+      "Rectifier"
+    ],
+    "correctAns": "Inverter",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does BIPV stand for?",
+    "options": [
+      "Building-Integrated Photovoltaics",
+      "Basic Inverter for Photovoltaic",
+      "Battery Integration for Power",
+      "Business Investment in Photovoltaic"
+    ],
+    "correctAns": "Building-Integrated Photovoltaics",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which country leads in geothermal power generation?",
+    "options": [
+      "United States",
+      "Iceland",
+      "Indonesia",
+      "Philippines"
+    ],
+    "correctAns": "United States",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the primary benefit of community renewable projects?",
+    "options": [
+      "Higher efficiency",
+      "Local economic benefits",
+      "Lower maintenance",
+      "Faster installation"
+    ],
+    "correctAns": "Local economic benefits",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What are the four fundamental forces acting on an aircraft in flight?",
+    "options": [
+      "Lift, Gravity, Power, Resistance",
+      "Lift, Weight, Thrust, Drag",
+      "Buoyancy, Mass, Propulsion, Friction",
+      "Aerodynamic, Gravitational, Propulsive, Inertial"
+    ],
+    "correctAns": "Lift, Weight, Thrust, Drag",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which principle explains that fluid pressure decreases as velocity increases?",
+    "options": [
+      "Newton's First Law",
+      "Pascal's Principle",
+      "Bernoulli's Principle",
+      "Archimedes' Principle"
+    ],
+    "correctAns": "Bernoulli's Principle",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the typical safety factor used for aircraft ultimate loads?",
+    "options": [
+      "1.0",
+      "1.5",
+      "2.0",
+      "3.0"
+    ],
+    "correctAns": "1.5",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which type of engine carries both fuel and oxidizer for operation in space?",
+    "options": [
+      "Jet Engine",
+      "Turbofan Engine",
+      "Rocket Engine",
+      "Ramjet Engine"
+    ],
+    "correctAns": "Rocket Engine",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does the Mach number represent?",
+    "options": [
+      "Aircraft weight to thrust ratio",
+      "Ratio of flow velocity to speed of sound",
+      "Lift to drag ratio",
+      "Reynolds number for compressible flow"
+    ],
+    "correctAns": "Ratio of flow velocity to speed of sound",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which orbital transfer is most fuel-efficient between circular orbits?",
+    "options": [
+      "Bi-elliptic Transfer",
+      "Hohmann Transfer",
+      "Direct Transfer",
+      "Spiral Transfer"
+    ],
+    "correctAns": "Hohmann Transfer",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the primary function of aircraft ailerons?",
+    "options": [
+      "Control pitch",
+      "Control yaw",
+      "Control roll",
+      "Increase lift"
+    ],
+    "correctAns": "Control roll",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which material is commonly used for high-temperature engine components?",
+    "options": [
+      "Aluminum",
+      "Steel",
+      "Titanium",
+      "Magnesium"
+    ],
+    "correctAns": "Titanium",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What altitude do geostationary satellites typically orbit?",
+    "options": [
+      "500 km",
+      "2,000 km",
+      "10,000 km",
+      "35,786 km"
+    ],
+    "correctAns": "35,786 km",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which control surface is primarily used for pitch control?",
+    "options": [
+      "Ailerons",
+      "Rudder",
+      "Elevators",
+      "Flaps"
+    ],
+    "correctAns": "Elevators",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does FEA stand for in structural analysis?",
+    "options": [
+      "Flight Efficiency Analysis",
+      "Finite Element Analysis",
+      "Fluid Dynamics Assessment",
+      "Fundamental Engineering Approach"
+    ],
+    "correctAns": "Finite Element Analysis",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which type of boundary layer has higher drag but resists separation better?",
+    "options": [
+      "Laminar",
+      "Turbulent",
+      "Transitional",
+      "Separated"
+    ],
+    "correctAns": "Turbulent",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the primary load-bearing component in reinforced concrete?",
+    "options": [
+      "Concrete in compression",
+      "Steel in compression",
+      "Concrete in tension",
+      "Steel in tension"
+    ],
+    "correctAns": "Concrete in compression",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which soil type has the smallest particle size?",
+    "options": [
+      "Gravel",
+      "Sand",
+      "Silt",
+      "Clay"
+    ],
+    "correctAns": "Clay",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does the water-cement ratio primarily affect in concrete?",
+    "options": [
+      "Color",
+      "Workability and strength",
+      "Cost",
+      "Setting time only"
+    ],
+    "correctAns": "Workability and strength",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which foundation type is used when competent soil is deep?",
+    "options": [
+      "Spread footing",
+      "Mat foundation",
+      "Pile foundation",
+      "Slab-on-grade"
+    ],
+    "correctAns": "Pile foundation",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the main purpose of reinforcement in concrete?",
+    "options": [
+      "Reduce cost",
+      "Improve appearance",
+      "Provide tensile strength",
+      "Increase weight"
+    ],
+    "correctAns": "Provide tensile strength",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which material property describes permanent deformation?",
+    "options": [
+      "Elasticity",
+      "Plasticity",
+      "Ductility",
+      "Brittleness"
+    ],
+    "correctAns": "Plasticity",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does the factor of safety represent?",
+    "options": [
+      "Cost efficiency",
+      "Design margin",
+      "Construction speed",
+      "Material cost"
+    ],
+    "correctAns": "Design margin",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which engineering discipline deals with traffic flow?",
+    "options": [
+      "Structural engineering",
+      "Geotechnical engineering",
+      "Transportation engineering",
+      "Environmental engineering"
+    ],
+    "correctAns": "Transportation engineering",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the primary concern in slope stability analysis?",
+    "options": [
+      "Aesthetics",
+      "Preventing landslides",
+      "Cost reduction",
+      "Construction speed"
+    ],
+    "correctAns": "Preventing landslides",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which equation is used for open channel flow calculations?",
+    "options": [
+      "Bernoulli's equation",
+      "Manning's equation",
+      "Euler's equation",
+      "Darcy's equation"
+    ],
+    "correctAns": "Manning's equation",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the main load considered in dead load calculations?",
+    "options": [
+      "Wind",
+      "Structure self-weight",
+      "Occupants",
+      "Earthquake"
+    ],
+    "correctAns": "Structure self-weight",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which test determines concrete compressive strength?",
+    "options": [
+      "Tensile test",
+      "Compression test",
+      "Bend test",
+      "Impact test"
+    ],
+    "correctAns": "Compression test",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the primary greenhouse gas emitted by human activities?",
+    "options": [
+      "Methane",
+      "Carbon Dioxide",
+      "Water Vapor",
+      "Nitrous Oxide"
+    ],
+    "correctAns": "Carbon Dioxide",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "How much has Earth's average temperature increased since pre-industrial times?",
+    "options": [
+      "0.5°C",
+      "1.2°C",
+      "2.0°C",
+      "3.5°C"
+    ],
+    "correctAns": "1.2°C",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which phenomenon describes oceans becoming more acidic due to CO2 absorption?",
+    "options": [
+      "Ocean warming",
+      "Ocean acidification",
+      "Coral bleaching",
+      "Thermal expansion"
+    ],
+    "correctAns": "Ocean acidification",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What percentage of anthropogenic CO2 do oceans absorb?",
+    "options": [
+      "10%",
+      "30%",
+      "50%",
+      "70%"
+    ],
+    "correctAns": "30%",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which international agreement aims to limit warming to 1.5-2°C?",
+    "options": [
+      "Kyoto Protocol",
+      "Paris Agreement",
+      "Montreal Protocol",
+      "Copenhagen Accord"
+    ],
+    "correctAns": "Paris Agreement",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the main cause of current sea level rise?",
+    "options": [
+      "Land sinking",
+      "Glacial melt",
+      "Thermal expansion and ice melt",
+      "Increased precipitation"
+    ],
+    "correctAns": "Thermal expansion and ice melt",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which renewable energy source has seen the steepest cost decline recently?",
+    "options": [
+      "Hydropower",
+      "Geothermal",
+      "Solar PV",
+      "Biomass"
+    ],
+    "correctAns": "Solar PV",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does CCS stand for in climate mitigation?",
+    "options": [
+      "Carbon Capture and Storage",
+      "Climate Control System",
+      "Carbon Counting Standard",
+      "Clean Coal Solution"
+    ],
+    "correctAns": "Carbon Capture and Storage",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which region is warming fastest due to climate change?",
+    "options": [
+      "Tropics",
+      "Temperate zones",
+      "Polar regions",
+      "Deserts"
+    ],
+    "correctAns": "Polar regions",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the primary source of methane emissions from human activities?",
+    "options": [
+      "Transportation",
+      "Agriculture",
+      "Industry",
+      "Energy production"
+    ],
+    "correctAns": "Agriculture",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which climate phenomenon describes self-reinforcing warming cycles?",
+    "options": [
+      "Climate sensitivity",
+      "Feedback loops",
+      "Tipping points",
+      "Climate inertia"
+    ],
+    "correctAns": "Feedback loops",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does NDC stand for in climate policy?",
+    "options": [
+      "National Development Commitment",
+      "Nationally Determined Contribution",
+      "Natural Disaster Control",
+      "Net Zero Development Criteria"
+    ],
+    "correctAns": "Nationally Determined Contribution",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What are the three main components of any robot?",
+    "options": [
+      "Sensors, Actuators, Controller",
+      "Battery, Motors, Computer",
+      "Wheels, Arms, Camera",
+      "Software, Hardware, Power"
+    ],
+    "correctAns": "Sensors, Actuators, Controller",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which programming framework is specifically designed for robotics?",
+    "options": [
+      "TensorFlow",
+      "ROS",
+      "Unity",
+      "Docker"
+    ],
+    "correctAns": "ROS",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does DOF stand for in robotics?",
+    "options": [
+      "Direction of Force",
+      "Degrees of Freedom",
+      "Digital Operation Feature",
+      "Dynamic Orientation Factor"
+    ],
+    "correctAns": "Degrees of Freedom",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which sensor type uses sound waves to measure distance?",
+    "options": [
+      "Infrared",
+      "Ultrasonic",
+      "LIDAR",
+      "Capacitive"
+    ],
+    "correctAns": "Ultrasonic",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the purpose of inverse kinematics?",
+    "options": [
+      "Calculate joint angles from desired position",
+      "Calculate position from joint angles",
+      "Measure forces during motion",
+      "Control motor speed"
+    ],
+    "correctAns": "Calculate joint angles from desired position",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which algorithm is commonly used for robot path planning?",
+    "options": [
+      "Bubble Sort",
+      "A* Search",
+      "Binary Search",
+      "Quick Sort"
+    ],
+    "correctAns": "A* Search",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What does SLAM stand for in robotics?",
+    "options": [
+      "Simple Locomotion and Movement",
+      "Simultaneous Localization and Mapping",
+      "Systematic Learning and Memory",
+      "Sensory Logic and Manipulation"
+    ],
+    "correctAns": "Simultaneous Localization and Mapping",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which type of motor provides precise angular control with feedback?",
+    "options": [
+      "DC Motor",
+      "Stepper Motor",
+      "Servo Motor",
+      "AC Motor"
+    ],
+    "correctAns": "Servo Motor",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the main function of a PID controller?",
+    "options": [
+      "Power distribution",
+      "Image processing",
+      "Motion control",
+      "Data storage"
+    ],
+    "correctAns": "Motion control",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which industry was an early adopter of industrial robotics?",
+    "options": [
+      "Food service",
+      "Automotive manufacturing",
+      "Healthcare",
+      "Education"
+    ],
+    "correctAns": "Automotive manufacturing",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What ethical concern is raised by robots with surveillance capabilities?",
+    "options": [
+      "Power consumption",
+      "Privacy",
+      "Noise pollution",
+      "Aesthetics"
+    ],
+    "correctAns": "Privacy",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "Which component converts electrical energy to mechanical motion?",
+    "options": [
+      "Sensor",
+      "Actuator",
+      "Controller",
+      "Battery"
+    ],
+    "correctAns": "Actuator",
+    "category": "Tech & Coding"
+  },
+  {
+    "question": "What is the estimated age of Earth?",
+    "options": [
+      "3.8 billion years",
+      "4.6 billion years",
+      "5.2 billion years",
+      "6.4 billion years"
+    ],
+    "correctAns": "4.6 billion years",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which principle states that younger rocks lie above older rocks in undisturbed sequences?",
+    "options": [
+      "Cross-cutting",
+      "Superposition",
+      "Original Horizontality",
+      "Faunal Succession"
+    ],
+    "correctAns": "Superposition",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What type of rock forms from cooled magma?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Crystalline"
+    ],
+    "correctAns": "Igneous",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which dating method uses Carbon-14?",
+    "options": [
+      "Relative dating",
+      "Radiometric dating",
+      "Stratigraphic dating",
+      "Paleomagnetic dating"
+    ],
+    "correctAns": "Radiometric dating",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What drives plate tectonic movement?",
+    "options": [
+      "Earth's rotation",
+      "Mantle convection",
+      "Solar radiation",
+      "Ocean currents"
+    ],
+    "correctAns": "Mantle convection",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which mineral is hardest on the Mohs scale?",
+    "options": [
+      "Quartz",
+      "Topaz",
+      "Corundum",
+      "Diamond"
+    ],
+    "correctAns": "Diamond",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What type of boundary features plates sliding past each other?",
+    "options": [
+      "Convergent",
+      "Divergent",
+      "Transform",
+      "Subduction"
+    ],
+    "correctAns": "Transform",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which era is known as the 'Age of Dinosaurs'?",
+    "options": [
+      "Paleozoic",
+      "Mesozoic",
+      "Cenozoic",
+      "Precambrian"
+    ],
+    "correctAns": "Mesozoic",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What process forms metamorphic rocks?",
+    "options": [
+      "Cooling magma",
+      "Cementing sediments",
+      "Heat and pressure",
+      "Chemical precipitation"
+    ],
+    "correctAns": "Heat and pressure",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which feature is carved by glacial erosion?",
+    "options": [
+      "V-shaped valley",
+      "U-shaped valley",
+      "Canyon",
+      "Mesa"
+    ],
+    "correctAns": "U-shaped valley",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What percentage of species went extinct in the Permian event?",
+    "options": [
+      "50%",
+      "75%",
+      "85%",
+      "96%"
+    ],
+    "correctAns": "96%",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which rock type most commonly contains fossils?",
+    "options": [
+      "Igneous",
+      "Metamorphic",
+      "Sedimentary",
+      "Volcanic"
+    ],
+    "correctAns": "Sedimentary",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the typical size range for nanomaterials?",
+    "options": [
+      "1-100 micrometers",
+      "1-100 nanometers",
+      "0.1-1 millimeter",
+      "10-1000 angstroms"
+    ],
+    "correctAns": "1-100 nanometers",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Who is credited with the conceptual foundation of nanotechnology?",
+    "options": [
+      "Albert Einstein",
+      "Richard Feynman",
+      "Norio Taniguchi",
+      "Stephen Hawking"
+    ],
+    "correctAns": "Richard Feynman",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which carbon nanomaterial is a single atomic layer thick?",
+    "options": [
+      "Fullerene",
+      "Carbon nanotube",
+      "Graphene",
+      "Diamond"
+    ],
+    "correctAns": "Graphene",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What phenomenon causes gold nanoparticles to appear red?",
+    "options": [
+      "Fluorescence",
+      "Surface plasmon resonance",
+      "Quantum confinement",
+      "Photoluminescence"
+    ],
+    "correctAns": "Surface plasmon resonance",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which microscope can image individual atoms?",
+    "options": [
+      "Optical microscope",
+      "Scanning Electron Microscope",
+      "Transmission Electron Microscope",
+      "Atomic Force Microscope"
+    ],
+    "correctAns": "Transmission Electron Microscope",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the main advantage of bottom-up fabrication?",
+    "options": [
+      "Higher speed",
+      "Lower cost",
+      "Atomic-level precision",
+      "Larger scale production"
+    ],
+    "correctAns": "Atomic-level precision",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which property makes carbon nanotubes exceptionally strong?",
+    "options": [
+      "High density",
+      "Covalent bonds",
+      "Metallic character",
+      "Large surface area"
+    ],
+    "correctAns": "Covalent bonds",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is quantum confinement?",
+    "options": [
+      "Particle trapping",
+      "Size-dependent electronic properties",
+      "Quantum computing",
+      "Wavefunction collapse"
+    ],
+    "correctAns": "Size-dependent electronic properties",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which nanomaterial is used in targeted drug delivery?",
+    "options": [
+      "Liposomal nanoparticles",
+      "Carbon nanotubes",
+      "Quantum dots",
+      "Fullerenes"
+    ],
+    "correctAns": "Liposomal nanoparticles",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does NEMS stand for?",
+    "options": [
+      "Nano Electronic Micro Systems",
+      "NanoElectroMechanical Systems",
+      "Nanoscale Energy Management Systems",
+      "Noble Element Molecular Structures"
+    ],
+    "correctAns": "NanoElectroMechanical Systems",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which fabrication method uses mechanical stamping?",
+    "options": [
+      "Photolithography",
+      "Nanoimprint lithography",
+      "Electron beam lithography",
+      "Molecular beam epitaxy"
+    ],
+    "correctAns": "Nanoimprint lithography",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is a major safety concern with nanoparticles?",
+    "options": [
+      "Radioactivity",
+      "Toxicity",
+      "Magnetism",
+      "Transparency"
+    ],
+    "correctAns": "Toxicity",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the relationship described by Ohm's Law?",
+    "options": [
+      "V = I/R",
+      "V = I*R",
+      "I = V*R",
+      "R = V*I"
+    ],
+    "correctAns": "V = I*R",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which law states that current entering a node equals current leaving?",
+    "options": [
+      "Ohm's Law",
+      "Kirchhoff's Voltage Law",
+      "Kirchhoff's Current Law",
+      "Faraday's Law"
+    ],
+    "correctAns": "Kirchhoff's Current Law",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does RMS stand for in AC circuits?",
+    "options": [
+      "Root Mean Square",
+      "Real Maximum Signal",
+      "Resonant Mode Selection",
+      "Rectified Maximum Standard"
+    ],
+    "correctAns": "Root Mean Square",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which component stores energy in an electric field?",
+    "options": [
+      "Resistor",
+      "Inductor",
+      "Capacitor",
+      "Diode"
+    ],
+    "correctAns": "Capacitor",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What type of device allows current flow in one direction only?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Diode",
+      "Transistor"
+    ],
+    "correctAns": "Diode",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which analysis method uses KVL with loop currents?",
+    "options": [
+      "Nodal analysis",
+      "Mesh analysis",
+      "Superposition",
+      "Thevenin equivalent"
+    ],
+    "correctAns": "Mesh analysis",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAns": "Ohm",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which transistor type is voltage-controlled?",
+    "options": [
+      "BJT",
+      "FET",
+      "NPN",
+      "PNP"
+    ],
+    "correctAns": "FET",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What does impedance represent in AC circuits?",
+    "options": [
+      "Only resistance",
+      "Only reactance",
+      "Combination of resistance and reactance",
+      "Power factor"
+    ],
+    "correctAns": "Combination of resistance and reactance",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which gate output is high only when all inputs are high?",
+    "options": [
+      "OR gate",
+      "AND gate",
+      "NOT gate",
+      "XOR gate"
+    ],
+    "correctAns": "AND gate",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What is the purpose of a fuse in a circuit?",
+    "options": [
+      "Amplify signals",
+      "Store energy",
+      "Protect against overcurrent",
+      "Regulate voltage"
+    ],
+    "correctAns": "Protect against overcurrent",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "Which power supply type is most efficient?",
+    "options": [
+      "Linear regulator",
+      "Switching regulator",
+      "Transformer only",
+      "Battery"
+    ],
+    "correctAns": "Switching regulator",
+    "category": "Science & Engineering"
+  },
+  {
+    "question": "What are the three elements of the exposure triangle?",
+    "options": [
+      "Aperture, Shutter Speed, ISO",
+      "Aperture, Focus, ISO",
+      "Shutter Speed, White Balance, ISO",
+      "Aperture, Shutter Speed, White Balance"
+    ],
+    "correctAns": "Aperture, Shutter Speed, ISO",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which composition rule divides the frame into nine equal sections?",
+    "options": [
+      "Golden Ratio",
+      "Rule of Thirds",
+      "Leading Lines",
+      "Symmetry Rule"
+    ],
+    "correctAns": "Rule of Thirds",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What type of light occurs during sunrise and sunset?",
+    "options": [
+      "Blue Hour",
+      "Golden Hour",
+      "Midday Light",
+      "Artificial Light"
+    ],
+    "correctAns": "Golden Hour",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which file format preserves the most editing flexibility?",
+    "options": [
+      "JPEG",
+      "PNG",
+      "RAW",
+      "TIFF"
+    ],
+    "correctAns": "RAW",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What focal length is typically most flattering for portraits?",
+    "options": [
+      "24mm",
+      "50mm",
+      "85mm",
+      "200mm"
+    ],
+    "correctAns": "85mm",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which shutter speed would best freeze a running athlete?",
+    "options": [
+      "1/15s",
+      "1/60s",
+      "1/250s",
+      "1/1000s"
+    ],
+    "correctAns": "1/1000s",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does ISO measure in photography?",
+    "options": [
+      "Image Quality",
+      "Sensor Sensitivity",
+      "Color Accuracy",
+      "Lens Sharpness"
+    ],
+    "correctAns": "Sensor Sensitivity",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which aperture setting provides the greatest depth of field?",
+    "options": [
+      "f/2.8",
+      "f/5.6",
+      "f/11",
+      "f/16"
+    ],
+    "correctAns": "f/16",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What technique involves tracking a moving subject with slow shutter speed?",
+    "options": [
+      "Zoom Burst",
+      "Panning",
+      "Bracketing",
+      "Focus Stacking"
+    ],
+    "correctAns": "Panning",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which white balance setting would correct cool blue tones in shade?",
+    "options": [
+      "Tungsten",
+      "Flash",
+      "Daylight",
+      "Cloudy"
+    ],
+    "correctAns": "Cloudy",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the purpose of a polarizing filter?",
+    "options": [
+      "Increase Shutter Speed",
+      "Reduce Reflections",
+      "Change Focal Length",
+      "Add Warmth"
+    ],
+    "correctAns": "Reduce Reflections",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which lighting direction creates dramatic shadows and emphasizes texture?",
+    "options": [
+      "Front Lighting",
+      "Side Lighting",
+      "Back Lighting",
+      "Top Lighting"
+    ],
+    "correctAns": "Side Lighting",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What principle organizes design elements to guide viewer attention?",
+    "options": [
+      "Color Theory",
+      "Visual Hierarchy",
+      "Typography",
+      "Grid Systems"
+    ],
+    "correctAns": "Visual Hierarchy",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which color scheme uses colors opposite each other on the color wheel?",
+    "options": [
+      "Analogous",
+      "Monochromatic",
+      "Complementary",
+      "Triadic"
+    ],
+    "correctAns": "Complementary",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What type of typeface has small strokes at the end of characters?",
+    "options": [
+      "Sans-serif",
+      "Serif",
+      "Script",
+      "Display"
+    ],
+    "correctAns": "Serif",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which layout pattern describes how users scan text-heavy content?",
+    "options": [
+      "Z-Pattern",
+      "F-Pattern",
+      "Golden Ratio",
+      "Modular Grid"
+    ],
+    "correctAns": "F-Pattern",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the approximate value of the golden ratio?",
+    "options": [
+      "1.414",
+      "1.618",
+      "2.718",
+      "3.142"
+    ],
+    "correctAns": "1.618",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which design software is best for vector graphics and logos?",
+    "options": [
+      "Photoshop",
+      "Illustrator",
+      "InDesign",
+      "Figma"
+    ],
+    "correctAns": "Illustrator",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does RGB color model stand for?",
+    "options": [
+      "Red, Gray, Blue",
+      "Red, Green, Black",
+      "Red, Green, Blue",
+      "Red, Gold, Blue"
+    ],
+    "correctAns": "Red, Green, Blue",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which principle groups related elements together visually?",
+    "options": [
+      "Contrast",
+      "Alignment",
+      "Proximity",
+      "Repetition"
+    ],
+    "correctAns": "Proximity",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the recommended maximum number of typefaces in a design?",
+    "options": [
+      "1-2",
+      "2-3",
+      "3-4",
+      "4-5"
+    ],
+    "correctAns": "2-3",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which file format supports transparency and lossless compression?",
+    "options": [
+      "JPEG",
+      "PDF",
+      "PNG",
+      "SVG"
+    ],
+    "correctAns": "PNG",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the first phase in the design thinking process?",
+    "options": [
+      "Define",
+      "Ideate",
+      "Empathize",
+      "Prototype"
+    ],
+    "correctAns": "Empathize",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which color typically represents trust and professionalism?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Orange"
+    ],
+    "correctAns": "Blue",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the pattern of whole and half steps in a major scale?",
+    "options": [
+      "W-W-H-W-W-W-H",
+      "W-H-W-W-H-W-W",
+      "H-W-W-H-W-W-W",
+      "W-H-W-H-W-H-W"
+    ],
+    "correctAns": "W-W-H-W-W-W-H",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which chord progression provides the strongest sense of resolution?",
+    "options": [
+      "IV-I",
+      "V-vi",
+      "V-I",
+      "I-IV"
+    ],
+    "correctAns": "V-I",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What musical form follows an A-B-A structure?",
+    "options": [
+      "Binary",
+      "Ternary",
+      "Rondo",
+      "Sonata"
+    ],
+    "correctAns": "Ternary",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which interval is known as the \"tritone\"?",
+    "options": [
+      "Perfect Fourth",
+      "Augmented Fourth",
+      "Major Seventh",
+      "Minor Sixth"
+    ],
+    "correctAns": "Augmented Fourth",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does the bottom number in a time signature represent?",
+    "options": [
+      "Beats per minute",
+      "Beats per measure",
+      "Note value for one beat",
+      "Number of measures"
+    ],
+    "correctAns": "Note value for one beat",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which chord quality typically sounds sad or melancholic?",
+    "options": [
+      "Major",
+      "Minor",
+      "Augmented",
+      "Diminished"
+    ],
+    "correctAns": "Minor",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the relative minor of C major?",
+    "options": [
+      "A minor",
+      "E minor",
+      "G minor",
+      "D minor"
+    ],
+    "correctAns": "A minor",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which texture features multiple independent melodic lines?",
+    "options": [
+      "Monophonic",
+      "Homophonic",
+      "Polyphonic",
+      "Heterophonic"
+    ],
+    "correctAns": "Polyphonic",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What Roman numeral represents the dominant chord?",
+    "options": [
+      "I",
+      "IV",
+      "V",
+      "vi"
+    ],
+    "correctAns": "V",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which scale degree is the tonic?",
+    "options": [
+      "First",
+      "Third",
+      "Fifth",
+      "Seventh"
+    ],
+    "correctAns": "First",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the smallest interval in Western music?",
+    "options": [
+      "Whole step",
+      "Half step",
+      "Third",
+      "Fourth"
+    ],
+    "correctAns": "Half step",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which chord contains the notes C-E-G?",
+    "options": [
+      "C minor",
+      "C major",
+      "C diminished",
+      "C augmented"
+    ],
+    "correctAns": "C major",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What are the three main acts in the three-act structure?",
+    "options": [
+      "Beginning, Middle, End",
+      "Setup, Conflict, Resolution",
+      "Exposition, Climax, Denouement",
+      "Introduction, Development, Conclusion"
+    ],
+    "correctAns": "Beginning, Middle, End",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which point of view uses \"I\" and provides intimate character access?",
+    "options": [
+      "Third Person Limited",
+      "First Person",
+      "Second Person",
+      "Third Person Omniscient"
+    ],
+    "correctAns": "First Person",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does \"show, don't tell\" primarily encourage writers to do?",
+    "options": [
+      "Use more adjectives",
+      "Reveal through action and detail",
+      "Explain character thoughts",
+      "Describe settings thoroughly"
+    ],
+    "correctAns": "Reveal through action and detail",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which story structure involves a hero leaving their ordinary world?",
+    "options": [
+      "Three-Act Structure",
+      "Hero's Journey",
+      "Freytag's Pyramid",
+      "In Media Res"
+    ],
+    "correctAns": "Hero's Journey",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What creates the central tension that drives a story forward?",
+    "options": [
+      "Setting",
+      "Conflict",
+      "Dialogue",
+      "Description"
+    ],
+    "correctAns": "Conflict",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which revision stage focuses on plot consistency and character motivation?",
+    "options": [
+      "Proofreading",
+      "Line Editing",
+      "Structural Revision",
+      "Copy Editing"
+    ],
+    "correctAns": "Structural Revision",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does effective dialogue primarily reveal?",
+    "options": [
+      "Setting details",
+      "Character and advances plot",
+      "Author's opinions",
+      "Historical context"
+    ],
+    "correctAns": "Character and advances plot",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which genre typically requires a central love story and happy ending?",
+    "options": [
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "correctAns": "Romance",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the inciting incident in a story?",
+    "options": [
+      "The climax",
+      "The event that starts the main conflict",
+      "The resolution",
+      "A subplot beginning"
+    ],
+    "correctAns": "The event that starts the main conflict",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which conflict type involves internal struggles?",
+    "options": [
+      "Man vs. Man",
+      "Man vs. Society",
+      "Man vs. Self",
+      "Man vs. Nature"
+    ],
+    "correctAns": "Man vs. Self",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does pacing control in a story?",
+    "options": [
+      "Character development",
+      "The speed and rhythm of unfolding events",
+      "Point of view",
+      "Genre conventions"
+    ],
+    "correctAns": "The speed and rhythm of unfolding events",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which writing habit is most important for consistent progress?",
+    "options": [
+      "Waiting for inspiration",
+      "Daily writing practice",
+      "Extensive research",
+      "Perfect first drafts"
+    ],
+    "correctAns": "Daily writing practice",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does line weight variation help create in drawings?",
+    "options": [
+      "Color harmony",
+      "Depth and interest",
+      "Paper texture",
+      "Faster drawing"
+    ],
+    "correctAns": "Depth and interest",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which perspective uses two vanishing points?",
+    "options": [
+      "One-point perspective",
+      "Two-point perspective",
+      "Atmospheric perspective",
+      "Isometric perspective"
+    ],
+    "correctAns": "Two-point perspective",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the purpose of gesture drawing?",
+    "options": [
+      "Perfect detail",
+      "Capture movement and energy",
+      "Color mixing",
+      "Paper preparation"
+    ],
+    "correctAns": "Capture movement and energy",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which pencil grade would be darkest?",
+    "options": [
+      "2H",
+      "HB",
+      "2B",
+      "6B"
+    ],
+    "correctAns": "6B",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does the rule of thirds help with?",
+    "options": [
+      "Choosing colors",
+      "Creating balanced compositions",
+      "Mixing paint",
+      "Sharpening pencils"
+    ],
+    "correctAns": "Creating balanced compositions",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which technique uses dots to create value?",
+    "options": [
+      "Hatching",
+      "Cross-hatching",
+      "Stippling",
+      "Blending"
+    ],
+    "correctAns": "Stippling",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is negative space in drawing?",
+    "options": [
+      "Dark shadows",
+      "Areas around and between subjects",
+      "Erased areas",
+      "Background color"
+    ],
+    "correctAns": "Areas around and between subjects",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which material is best for smooth, detailed work?",
+    "options": [
+      "Rough paper",
+      "Hot-pressed paper",
+      "Newspaper",
+      "Canvas"
+    ],
+    "correctAns": "Hot-pressed paper",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does foreshortening depict?",
+    "options": [
+      "Color changes",
+      "Objects extending toward viewer",
+      "Atmospheric effects",
+      "Paper grain"
+    ],
+    "correctAns": "Objects extending toward viewer",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which eraser type is best for precise highlights?",
+    "options": [
+      "Kneaded eraser",
+      "Pink pearl eraser",
+      "Pencil-shaped eraser",
+      "Ink eraser"
+    ],
+    "correctAns": "Pencil-shaped eraser",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What creates the illusion of three-dimensional form?",
+    "options": [
+      "Value relationships",
+      "Paper color",
+      "Drawing speed",
+      "Pencil brand"
+    ],
+    "correctAns": "Value relationships",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which drawing approach breaks subjects into basic shapes?",
+    "options": [
+      "Construction",
+      "Gesture",
+      "Contour",
+      "Blind contour"
+    ],
+    "correctAns": "Construction",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which movement first emerged as a reaction against academic painting in 1870s France?",
+    "options": [
+      "Cubism",
+      "Impressionism",
+      "Surrealism",
+      "Expressionism"
+    ],
+    "correctAns": "Impressionism",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Who were the two main pioneers of Cubism?",
+    "options": [
+      "Monet and Renoir",
+      "Picasso and Braque",
+      "Dali and Magritte",
+      "Pollock and Rothko"
+    ],
+    "correctAns": "Picasso and Braque",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which movement prioritized emotional experience over physical reality?",
+    "options": [
+      "Minimalism",
+      "Expressionism",
+      "Pop Art",
+      "Conceptual Art"
+    ],
+    "correctAns": "Expressionism",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What technique did Jackson Pollock famously use?",
+    "options": [
+      "Pointillism",
+      "Drip painting",
+      "Silk-screening",
+      "Collage"
+    ],
+    "correctAns": "Drip painting",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which movement embraced mass culture and consumer society?",
+    "options": [
+      "Abstract Expressionism",
+      "Pop Art",
+      "Minimalism",
+      "Surrealism"
+    ],
+    "correctAns": "Pop Art",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What was the main focus of Conceptual Art?",
+    "options": [
+      "Color theory",
+      "Ideas over aesthetics",
+      "Dream imagery",
+      "Geometric forms"
+    ],
+    "correctAns": "Ideas over aesthetics",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which artist created \"readymades\" including a signed urinal?",
+    "options": [
+      "Salvador Dali",
+      "Marcel Duchamp",
+      "Andy Warhol",
+      "Piet Mondrian"
+    ],
+    "correctAns": "Marcel Duchamp",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does De Stijl mean in English?",
+    "options": [
+      "The Bridge",
+      "The Style",
+      "The Blue Rider",
+      "The Beast"
+    ],
+    "correctAns": "The Style",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which movement explored the unconscious and dream imagery?",
+    "options": [
+      "Cubism",
+      "Surrealism",
+      "Fauvism",
+      "Minimalism"
+    ],
+    "correctAns": "Surrealism",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What characterized Minimalist art?",
+    "options": [
+      "Complex emotional expression",
+      "Simple geometric forms",
+      "Dream-like scenes",
+      "Mass media imagery"
+    ],
+    "correctAns": "Simple geometric forms",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which city replaced Paris as the art world center after WWII?",
+    "options": [
+      "London",
+      "Berlin",
+      "New York",
+      "Tokyo"
+    ],
+    "correctAns": "New York",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What technique involves rubbing to create textures?",
+    "options": [
+      "Décalcomania",
+      "Frottage",
+      "Pointillism",
+      "Silk-screening"
+    ],
+    "correctAns": "Frottage",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What are the three main parts of a speech structure?",
+    "options": [
+      "Beginning, Middle, End",
+      "Introduction, Body, Conclusion",
+      "Opening, Content, Closing",
+      "Start, Middle, Finish"
+    ],
+    "correctAns": "Introduction, Body, Conclusion",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which vocal element helps emphasize important points?",
+    "options": [
+      "Monotone delivery",
+      "Strategic pauses",
+      "Rapid speaking",
+      "Low volume"
+    ],
+    "correctAns": "Strategic pauses",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does the PREP method help with?",
+    "options": [
+      "Slide design",
+      "Impromptu speaking",
+      "Audience analysis",
+      "Speech writing"
+    ],
+    "correctAns": "Impromptu speaking",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which appeal establishes speaker credibility?",
+    "options": [
+      "Pathos",
+      "Logos",
+      "Ethos",
+      "Kairos"
+    ],
+    "correctAns": "Ethos",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What should you do first in crisis communication?",
+    "options": [
+      "Assign blame",
+      "Acknowledge the situation",
+      "Make promises",
+      "Avoid the media"
+    ],
+    "correctAns": "Acknowledge the situation",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which body language creates connection with audience?",
+    "options": [
+      "Looking at notes",
+      "Eye contact",
+      "Pacing nervously",
+      "Crossed arms"
+    ],
+    "correctAns": "Eye contact",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the maximum recommended words per slide line?",
+    "options": [
+      "10 words",
+      "6 words",
+      "15 words",
+      "20 words"
+    ],
+    "correctAns": "6 words",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which technique helps manage speaking anxiety?",
+    "options": [
+      "Avoiding preparation",
+      "Deep breathing",
+      "Rushing through speech",
+      "Focusing on perfection"
+    ],
+    "correctAns": "Deep breathing",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What should business presentations end with?",
+    "options": [
+      "Jokes",
+      "Clear next steps",
+      "Complex data",
+      "Apologies"
+    ],
+    "correctAns": "Clear next steps",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which element makes stories more engaging?",
+    "options": [
+      "Sensory details",
+      "Long explanations",
+      "Technical terms",
+      "Abstract concepts"
+    ],
+    "correctAns": "Sensory details",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is crucial for virtual presentations?",
+    "options": [
+      "Testing technology",
+      "Complex slides",
+      "Formal attire",
+      "Long duration"
+    ],
+    "correctAns": "Testing technology",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which humor type is generally safest?",
+    "options": [
+      "Sarcastic humor",
+      "Self-deprecating humor",
+      "Insider jokes",
+      "Offensive humor"
+    ],
+    "correctAns": "Self-deprecating humor",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "According to legend, who founded Rome in 753 BCE?",
+    "options": [
+      "Romulus and Remus",
+      "Julius Caesar and Augustus",
+      "Aeneas and Odysseus",
+      "Cincinnatus and Cato"
+    ],
+    "correctAns": "Romulus and Remus",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What military innovation helped Rome defeat Carthage's navy in the First Punic War?",
+    "options": [
+      "The corvus boarding bridge",
+      "Greek fire",
+      "Trireme warships",
+      "Marine crossbows"
+    ],
+    "correctAns": "The corvus boarding bridge",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which battle featured Hannibal's classic double envelopment tactic that destroyed a Roman army?",
+    "options": [
+      "Cannae",
+      "Zama",
+      "Actium",
+      "Pharsalus"
+    ],
+    "correctAns": "Cannae",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What reform by Gaius Marius fundamentally changed soldier loyalty in the late Republic?",
+    "options": [
+      "Recruiting landless poor who owed loyalty to generals",
+      "Creating a professional officer corps",
+      "Introducing cavalry auxiliaries",
+      "Establishing permanent frontier legions"
+    ],
+    "correctAns": "Recruiting landless poor who owed loyalty to generals",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the First Triumvirate's political arrangement between Pompey, Crassus, and Caesar?",
+    "options": [
+      "An informal power-sharing alliance",
+      "An official senatorial committee",
+      "A military command structure",
+      "A constitutional amendment"
+    ],
+    "correctAns": "An informal power-sharing alliance",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What title did Augustus prefer to emphasize his authority without appearing monarchical?",
+    "options": [
+      "Princeps (First Citizen)",
+      "Imperator (Emperor)",
+      "Dictator Perpetuus",
+      "Rex (King)"
+    ],
+    "correctAns": "Princeps (First Citizen)",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which emperor built a massive wall across northern Britain to consolidate the empire's borders?",
+    "options": [
+      "Hadrian",
+      "Trajan",
+      "Augustus",
+      "Nero"
+    ],
+    "correctAns": "Hadrian",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What characterized the period of the Five Good Emperors (96-180 CE)?",
+    "options": [
+      "Stable succession through adoption of capable heirs",
+      "Continuous military expansion",
+      "Republican restoration",
+      "Christian persecution"
+    ],
+    "correctAns": "Stable succession through adoption of capable heirs",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was Diocletian's system of four rulers called that aimed to improve imperial administration?",
+    "options": [
+      "The Tetrarchy",
+      "The Triumvirate",
+      "The Decarchy",
+      "The Diarchy"
+    ],
+    "correctAns": "The Tetrarchy",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which emperor legalized Christianity and established Constantinople as the new capital?",
+    "options": [
+      "Constantine",
+      "Diocletian",
+      "Theodosius",
+      "Justinian"
+    ],
+    "correctAns": "Constantine",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What event in 410 CE delivered a psychological blow to Roman prestige?",
+    "options": [
+      "The Visigoth sack of Rome",
+      "The Hunnic invasion of Gaul",
+      "The Vandal capture of Carthage",
+      "The Persian capture of Antioch"
+    ],
+    "correctAns": "The Visigoth sack of Rome",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "In what year was the last Western Roman Emperor deposed, traditionally marking the empire's fall?",
+    "options": [
+      "476 CE",
+      "410 CE",
+      "395 CE",
+      "529 CE"
+    ],
+    "correctAns": "476 CE",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What geographical feature was essential to Egyptian civilization's development?",
+    "options": [
+      "The Nile River",
+      "The Sahara Desert",
+      "The Red Sea",
+      "The Atlas Mountains"
+    ],
+    "correctAns": "The Nile River",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who is traditionally credited with unifying Upper and Lower Egypt?",
+    "options": [
+      "Narmer",
+      "Khufu",
+      "Akhenaten",
+      "Ramesses II"
+    ],
+    "correctAns": "Narmer",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the first monumental stone building in Egypt?",
+    "options": [
+      "Djoser's Step Pyramid",
+      "The Great Pyramid",
+      "Karnak Temple",
+      "The Sphinx"
+    ],
+    "correctAns": "Djoser's Step Pyramid",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which pharaoh built the largest pyramid at Giza?",
+    "options": [
+      "Khufu",
+      "Khafre",
+      "Menkaure",
+      "Djoser"
+    ],
+    "correctAns": "Khufu",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What foreign group introduced chariots and composite bows during the Second Intermediate Period?",
+    "options": [
+      "The Hyksos",
+      "The Nubians",
+      "The Hittites",
+      "The Assyrians"
+    ],
+    "correctAns": "The Hyksos",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which pharaoh attempted to establish monotheistic worship of the Aten?",
+    "options": [
+      "Akhenaten",
+      "Tutankhamun",
+      "Hatshepsut",
+      "Thutmose III"
+    ],
+    "correctAns": "Akhenaten",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the purpose of the weighing of the heart ceremony?",
+    "options": [
+      "To judge fitness for the afterlife",
+      "To determine social status",
+      "To calculate taxes",
+      "To select pharaohs"
+    ],
+    "correctAns": "To judge fitness for the afterlife",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which object was crucial for deciphering Egyptian hieroglyphs?",
+    "options": [
+      "The Rosetta Stone",
+      "The Narmer Palette",
+      "The Book of the Dead",
+      "The Turin Papyrus"
+    ],
+    "correctAns": "The Rosetta Stone",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who successfully deciphered hieroglyphs using the Rosetta Stone?",
+    "options": [
+      "Jean-François Champollion",
+      "Howard Carter",
+      "Flinders Petrie",
+      "Napoleon Bonaparte"
+    ],
+    "correctAns": "Jean-François Champollion",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What modern project prompted international rescue of Nubian monuments?",
+    "options": [
+      "Aswan High Dam",
+      "Suez Canal",
+      "Nile Delta Development",
+      "Cairo Metro"
+    ],
+    "correctAns": "Aswan High Dam",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which period represented Egypt's peak as an imperial power?",
+    "options": [
+      "New Kingdom",
+      "Old Kingdom",
+      "Middle Kingdom",
+      "Ptolemaic Period"
+    ],
+    "correctAns": "New Kingdom",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What writing material was most commonly used for Egyptian documents?",
+    "options": [
+      "Papyrus",
+      "Clay tablets",
+      "Parchment",
+      "Palm leaves"
+    ],
+    "correctAns": "Papyrus",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who was the king of the Greek gods?",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Apollo"
+    ],
+    "correctAns": "Zeus",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which goddess was born from sea foam?",
+    "options": [
+      "Aphrodite",
+      "Athena",
+      "Artemis",
+      "Hera"
+    ],
+    "correctAns": "Aphrodite",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was Athena the goddess of?",
+    "options": [
+      "Wisdom and warfare",
+      "Love and beauty",
+      "Hunting and wilderness",
+      "Marriage and childbirth"
+    ],
+    "correctAns": "Wisdom and warfare",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "How many labors did Heracles complete?",
+    "options": [
+      "Twelve",
+      "Ten",
+      "Seven",
+      "Five"
+    ],
+    "correctAns": "Twelve",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who helped Theseus navigate the Labyrinth?",
+    "options": [
+      "Ariadne",
+      "Medea",
+      "Helen",
+      "Persephone"
+    ],
+    "correctAns": "Ariadne",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What strategy did Odysseus devise to conquer Troy?",
+    "options": [
+      "The Trojan Horse",
+      "The Wooden Wall",
+      "The Bronze Bull",
+      "The Iron Ram"
+    ],
+    "correctAns": "The Trojan Horse",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which hero was vulnerable only in his heel?",
+    "options": [
+      "Achilles",
+      "Perseus",
+      "Jason",
+      "Theseus"
+    ],
+    "correctAns": "Achilles",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who judged the beauty contest that started the Trojan War?",
+    "options": [
+      "Paris",
+      "Agamemnon",
+      "Menelaus",
+      "Priam"
+    ],
+    "correctAns": "Paris",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What were the Fates called in Greek mythology?",
+    "options": [
+      "The Moirai",
+      "The Graeae",
+      "The Gorgons",
+      "The Muses"
+    ],
+    "correctAns": "The Moirai",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which god served as messenger to the other gods?",
+    "options": [
+      "Hermes",
+      "Apollo",
+      "Ares",
+      "Dionysus"
+    ],
+    "correctAns": "Hermes",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the home of the Greek gods?",
+    "options": [
+      "Mount Olympus",
+      "Mount Parnassus",
+      "The Underworld",
+      "The Island of Crete"
+    ],
+    "correctAns": "Mount Olympus",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who was the Greek god of the underworld?",
+    "options": [
+      "Hades",
+      "Poseidon",
+      "Zeus",
+      "Hephaestus"
+    ],
+    "correctAns": "Hades",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which Chinese dynasty initiated systematic Silk Road trade?",
+    "options": [
+      "Han Dynasty",
+      "Tang Dynasty",
+      "Ming Dynasty",
+      "Qin Dynasty"
+    ],
+    "correctAns": "Han Dynasty",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the primary luxury good that gave the Silk Road its name?",
+    "options": [
+      "Chinese silk",
+      "Roman glass",
+      "Central Asian horses",
+      "Indian spices"
+    ],
+    "correctAns": "Chinese silk",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which empire controlled crucial intermediary territory between Rome and China?",
+    "options": [
+      "Parthian Empire",
+      "Kushan Empire",
+      "Gupta Empire",
+      "Byzantine Empire"
+    ],
+    "correctAns": "Parthian Empire",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What religion spread from India to China along Silk Road routes?",
+    "options": [
+      "Buddhism",
+      "Zoroastrianism",
+      "Christianity",
+      "Hinduism"
+    ],
+    "correctAns": "Buddhism",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which merchant group became the premier traders of the classical Silk Road?",
+    "options": [
+      "Sogdians",
+      "Phoenicians",
+      "Venetians",
+      "Arabs"
+    ],
+    "correctAns": "Sogdians",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which dynasty represented a golden age of Silk Road prosperity in China?",
+    "options": [
+      "Tang Dynasty",
+      "Song Dynasty",
+      "Yuan Dynasty",
+      "Qing Dynasty"
+    ],
+    "correctAns": "Tang Dynasty",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What empire created the Pax Mongolica that secured Silk Road travel?",
+    "options": [
+      "Mongol Empire",
+      "Ottoman Empire",
+      "Safavid Empire",
+      "Mughal Empire"
+    ],
+    "correctAns": "Mongol Empire",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which technology traveled from China to Europe via the Silk Road?",
+    "options": [
+      "Papermaking",
+      "Gunpowder manufacturing",
+      "Magnetic compass",
+      "All of the above"
+    ],
+    "correctAns": "All of the above",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What pandemic likely spread along Silk Road routes in the 14th century?",
+    "options": [
+      "Black Death",
+      "Justinian Plague",
+      "Spanish Flu",
+      "Antonine Plague"
+    ],
+    "correctAns": "Black Death",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which modern initiative consciously references Silk Road history?",
+    "options": [
+      "Belt and Road Initiative",
+      "Marshall Plan",
+      "European Union",
+      "ASEAN"
+    ],
+    "correctAns": "Belt and Road Initiative",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the primary means of transport on land routes of the Silk Road?",
+    "options": [
+      "Camel caravans",
+      "Horse carts",
+      "Elephant trains",
+      "Ox-drawn wagons"
+    ],
+    "correctAns": "Camel caravans",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which city served as the eastern terminus of the Silk Road in China?",
+    "options": [
+      "Chang'an",
+      "Beijing",
+      "Shanghai",
+      "Guangzhou"
+    ],
+    "correctAns": "Chang'an",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the name of the world tree in Norse mythology?",
+    "options": [
+      "Yggdrasil",
+      "Asgard",
+      "Bifrost",
+      "Midgard"
+    ],
+    "correctAns": "Yggdrasil",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which god sacrificed an eye for wisdom?",
+    "options": [
+      "Odin",
+      "Thor",
+      "Tyr",
+      "Heimdall"
+    ],
+    "correctAns": "Odin",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was Thor's primary weapon?",
+    "options": [
+      "Mjolnir",
+      "Gungnir",
+      "Gram",
+      "Hofund"
+    ],
+    "correctAns": "Mjolnir",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Where did the Viking Age begin with the 793 CE raid?",
+    "options": [
+      "Lindisfarne",
+      "Paris",
+      "Dublin",
+      "Hamburg"
+    ],
+    "correctAns": "Lindisfarne",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What were Swedish Vikings called in Eastern Europe?",
+    "options": [
+      "Varangians",
+      "Danes",
+      "Normans",
+      "Rus"
+    ],
+    "correctAns": "Varangians",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the Norse governing assembly called?",
+    "options": [
+      "Thing",
+      "Althing",
+      "Witan",
+      "Folkmoot"
+    ],
+    "correctAns": "Thing",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which creature was prophesied to kill Odin at Ragnarok?",
+    "options": [
+      "Fenrir",
+      "Jormungandr",
+      "Surt",
+      "Loki"
+    ],
+    "correctAns": "Fenrir",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Where did half of warriors slain in battle go in the afterlife?",
+    "options": [
+      "Valhalla",
+      "Helheim",
+      "Folkvangr",
+      "Niflheim"
+    ],
+    "correctAns": "Valhalla",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which king marked Denmark's conversion with the Jelling Stone?",
+    "options": [
+      "Harald Bluetooth",
+      "Sweyn Forkbeard",
+      "Cnut the Great",
+      "Gorm the Old"
+    ],
+    "correctAns": "Harald Bluetooth",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which 13th-century Icelander wrote the Prose Edda?",
+    "options": [
+      "Snorri Sturluson",
+      "Egill Skallagrímsson",
+      "Leif Erikson",
+      "Erik the Red"
+    ],
+    "correctAns": "Snorri Sturluson",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the name of Odin's eight-legged horse?",
+    "options": [
+      "Sleipnir",
+      "Grani",
+      "Gulltoppr",
+      "Blodughofi"
+    ],
+    "correctAns": "Sleipnir",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which Viking explorer reached North America around 1000 CE?",
+    "options": [
+      "Leif Erikson",
+      "Erik the Red",
+      "Bjarni Herjolfsson",
+      "Thorvald Erikson"
+    ],
+    "correctAns": "Leif Erikson",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "When was the Indus Valley Civilization first systematically excavated?",
+    "options": [
+      "1920s",
+      "1880s",
+      "1950s",
+      "1970s"
+    ],
+    "correctAns": "1920s",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What were the two largest cities of the civilization?",
+    "options": [
+      "Mohenjo-Daro and Harappa",
+      "Dholavira and Lothal",
+      "Kalibangan and Rakhigarhi",
+      "Ganweriwala and Chanhudaro"
+    ],
+    "correctAns": "Mohenjo-Daro and Harappa",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What unique feature did most Indus cities have in their layout?",
+    "options": [
+      "Grid pattern streets",
+      "Circular city plans",
+      "Pyramid centers",
+      "Maze-like alleys"
+    ],
+    "correctAns": "Grid pattern streets",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the ratio of standard Indus brick dimensions?",
+    "options": [
+      "4:2:1",
+      "3:2:1",
+      "5:3:2",
+      "2:1:1"
+    ],
+    "correctAns": "4:2:1",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which crop was first domesticated by the Indus civilization?",
+    "options": [
+      "Cotton",
+      "Wheat",
+      "Rice",
+      "Barley"
+    ],
+    "correctAns": "Cotton",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What is the current status of the Indus script?",
+    "options": [
+      "Undeciphered",
+      "Fully deciphered",
+      "Partially understood",
+      "Recently decoded"
+    ],
+    "correctAns": "Undeciphered",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What major public structure was found at Mohenjo-Daro?",
+    "options": [
+      "The Great Bath",
+      "A ziggurat",
+      "A royal palace",
+      "A massive temple"
+    ],
+    "correctAns": "The Great Bath",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which river system was crucial for the civilization's development?",
+    "options": [
+      "Indus and Ghaggar-Hakra",
+      "Ganges and Yamuna",
+      "Narmada and Tapti",
+      "Brahmaputra and Meghna"
+    ],
+    "correctAns": "Indus and Ghaggar-Hakra",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was a major export of the Indus civilization to Mesopotamia?",
+    "options": [
+      "Carnelian beads",
+      "Silk textiles",
+      "Gold jewelry",
+      "Spices"
+    ],
+    "correctAns": "Carnelian beads",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What theory is currently favored for the civilization's decline?",
+    "options": [
+      "Climate change",
+      "Aryan invasion",
+      "Earthquake destruction",
+      "Epidemic disease"
+    ],
+    "correctAns": "Climate change",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Approximately how many square kilometers did the civilization cover?",
+    "options": [
+      "1 million",
+      "500,000",
+      "2 million",
+      "250,000"
+    ],
+    "correctAns": "1 million",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What material was commonly used for Indus seals?",
+    "options": [
+      "Steatite",
+      "Marble",
+      "Ivory",
+      "Bronze"
+    ],
+    "correctAns": "Steatite",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "When was the Indus Valley Civilization first systematically excavated?",
+    "options": [
+      "1920s",
+      "1880s",
+      "1950s",
+      "1970s"
+    ],
+    "correctAns": "1920s",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What were the two largest cities of the civilization?",
+    "options": [
+      "Mohenjo-Daro and Harappa",
+      "Dholavira and Lothal",
+      "Kalibangan and Rakhigarhi",
+      "Ganweriwala and Chanhudaro"
+    ],
+    "correctAns": "Mohenjo-Daro and Harappa",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What unique feature did most Indus cities have in their layout?",
+    "options": [
+      "Grid pattern streets",
+      "Circular city plans",
+      "Pyramid centers",
+      "Maze-like alleys"
+    ],
+    "correctAns": "Grid pattern streets",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the ratio of standard Indus brick dimensions?",
+    "options": [
+      "4:2:1",
+      "3:2:1",
+      "5:3:2",
+      "2:1:1"
+    ],
+    "correctAns": "4:2:1",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which crop was first domesticated by the Indus civilization?",
+    "options": [
+      "Cotton",
+      "Wheat",
+      "Rice",
+      "Barley"
+    ],
+    "correctAns": "Cotton",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What is the current status of the Indus script?",
+    "options": [
+      "Undeciphered",
+      "Fully deciphered",
+      "Partially understood",
+      "Recently decoded"
+    ],
+    "correctAns": "Undeciphered",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What major public structure was found at Mohenjo-Daro?",
+    "options": [
+      "The Great Bath",
+      "A ziggurat",
+      "A royal palace",
+      "A massive temple"
+    ],
+    "correctAns": "The Great Bath",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which river system was crucial for the civilization's development?",
+    "options": [
+      "Indus and Ghaggar-Hakra",
+      "Ganges and Yamuna",
+      "Narmada and Tapti",
+      "Brahmaputra and Meghna"
+    ],
+    "correctAns": "Indus and Ghaggar-Hakra",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was a major export of the Indus civilization to Mesopotamia?",
+    "options": [
+      "Carnelian beads",
+      "Silk textiles",
+      "Gold jewelry",
+      "Spices"
+    ],
+    "correctAns": "Carnelian beads",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What theory is currently favored for the civilization's decline?",
+    "options": [
+      "Climate change",
+      "Aryan invasion",
+      "Earthquake destruction",
+      "Epidemic disease"
+    ],
+    "correctAns": "Climate change",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Approximately how many square kilometers did the civilization cover?",
+    "options": [
+      "1 million",
+      "500,000",
+      "2 million",
+      "250,000"
+    ],
+    "correctAns": "1 million",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What material was commonly used for Indus seals?",
+    "options": [
+      "Steatite",
+      "Marble",
+      "Ivory",
+      "Bronze"
+    ],
+    "correctAns": "Steatite",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What does the variable represent in algebraic expressions?",
+    "options": [
+      "An unknown quantity",
+      "A fixed number",
+      "An operation symbol",
+      "An equation"
+    ],
+    "correctAns": "An unknown quantity",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the solution to 2x + 5 = 13?",
+    "options": [
+      "x = 4",
+      "x = 9",
+      "x = 6",
+      "x = 8"
+    ],
+    "correctAns": "x = 4",
+    "category": "Mathematics"
+  },
+  {
+    "question": "In the equation y = 3x + 2, what does the number 3 represent?",
+    "options": [
+      "Slope",
+      "Y-intercept",
+      "X-intercept",
+      "Constant"
+    ],
+    "correctAns": "Slope",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the order of operations acronym?",
+    "options": [
+      "PEMDAS",
+      "SADMEP",
+      "DASPEM",
+      "PESDAM"
+    ],
+    "correctAns": "PEMDAS",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which method would be best to solve: y = 2x + 1 and 3x + y = 11?",
+    "options": [
+      "Substitution",
+      "Graphing",
+      "Elimination",
+      "Factoring"
+    ],
+    "correctAns": "Substitution",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the degree of the polynomial 4x³ - 2x² + 7x - 1?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correctAns": "3",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which points satisfies the equation y = 2x - 1?",
+    "options": [
+      "(2, 3)",
+      "(1, 1)",
+      "(3, 4)",
+      "(0, -2)"
+    ],
+    "correctAns": "(2, 3)",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the factored form of x² - 9?",
+    "options": [
+      "(x + 3)(x - 3)",
+      "(x - 3)²",
+      "(x + 3)²",
+      "(x - 9)(x + 1)"
+    ],
+    "correctAns": "(x + 3)(x - 3)",
+    "category": "Mathematics"
+  },
+  {
+    "question": "In the coordinate plane, where is the point (-3, 4) located?",
+    "options": [
+      "Quadrant II",
+      "Quadrant I",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "correctAns": "Quadrant II",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the solution to the system: x + y = 5 and x - y = 1?",
+    "options": [
+      "x = 3, y = 2",
+      "x = 2, y = 3",
+      "x = 4, y = 1",
+      "x = 1, y = 4"
+    ],
+    "correctAns": "x = 3, y = 2",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which represents a function?",
+    "options": [
+      "y = 2x + 1",
+      "x² + y² = 25",
+      "x = 3",
+      "|y| = x"
+    ],
+    "correctAns": "y = 2x + 1",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the quadratic formula?",
+    "options": [
+      "x = [-b ± √(b²-4ac)]/2a",
+      "x = [b ± √(b²+4ac)]/2a",
+      "x = [-b ± √(b²+4ac)]/2a",
+      "x = [b ± √(b²-4ac)]/2a"
+    ],
+    "correctAns": "x = [-b ± √(b²-4ac)]/2a",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the sum of interior angles in any triangle?",
+    "options": [
+      "180°",
+      "90°",
+      "360°",
+      "270°"
+    ],
+    "correctAns": "180°",
+    "category": "Mathematics"
+  },
+  {
+    "question": "In the Pythagorean Theorem a² + b² = c², what does c represent?",
+    "options": [
+      "Hypotenuse",
+      "Perimeter",
+      "Area",
+      "Shortest side"
+    ],
+    "correctAns": "Hypotenuse",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which triangle has sides in ratio 1:1:√2?",
+    "options": [
+      "45-45-90",
+      "30-60-90",
+      "3-4-5",
+      "Equilateral"
+    ],
+    "correctAns": "45-45-90",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does SSS stand for in triangle congruence?",
+    "options": [
+      "Side-Side-Side",
+      "Side-Slope-Side",
+      "Same-Size-Shape",
+      "Side-Surface-Side"
+    ],
+    "correctAns": "Side-Side-Side",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which set is a Pythagorean triple?",
+    "options": [
+      "3,4,5",
+      "2,3,4",
+      "4,5,6",
+      "5,6,7"
+    ],
+    "correctAns": "3,4,5",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the hypotenuse of a right triangle with legs 6 and 8?",
+    "options": [
+      "10",
+      "14",
+      "9",
+      "12"
+    ],
+    "correctAns": "10",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which congruence method requires two angles and the included side?",
+    "options": [
+      "ASA",
+      "SAS",
+      "SSS",
+      "AAS"
+    ],
+    "correctAns": "ASA",
+    "category": "Mathematics"
+  },
+  {
+    "question": "In a 30-60-90 triangle, if the short leg is 5, what is the hypotenuse?",
+    "options": [
+      "10",
+      "5√3",
+      "15",
+      "20"
+    ],
+    "correctAns": "10",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does CPCTC stand for?",
+    "options": [
+      "Corresponding Parts of Congruent Triangles are Congruent",
+      "Congruent Parts of Corresponding Triangles are Congruent",
+      "Corresponding Points of Congruent Triangles are Congruent",
+      "Congruent Polygons have Corresponding Triangle Congruence"
+    ],
+    "correctAns": "Corresponding Parts of Congruent Triangles are Congruent",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which theorem states that the sum of any two sides must be greater than the third?",
+    "options": [
+      "Triangle Inequality Theorem",
+      "Pythagorean Theorem",
+      "Angle Sum Theorem",
+      "Congruence Theorem"
+    ],
+    "correctAns": "Triangle Inequality Theorem",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the distance between points (1,2) and (4,6)?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctAns": "5",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which triangle has angles 30°, 60°, and 90°?",
+    "options": [
+      "30-60-90",
+      "45-45-90",
+      "Equilateral",
+      "Isosceles right"
+    ],
+    "correctAns": "30-60-90",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of f(x) = x³?",
+    "options": [
+      "3x²",
+      "3x",
+      "x²",
+      "2x³"
+    ],
+    "correctAns": "3x²",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does the Fundamental Theorem of Calculus connect?",
+    "options": [
+      "Derivatives and integrals",
+      "Limits and continuity",
+      "Sequences and series",
+      "Algebra and geometry"
+    ],
+    "correctAns": "Derivatives and integrals",
+    "category": "Mathematics"
+  },
+  {
+    "question": "If f'(x) = 2x and f(0) = 1, what is f(x)?",
+    "options": [
+      "x² + 1",
+      "2x + 1",
+      "x²",
+      "2x"
+    ],
+    "correctAns": "x² + 1",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "1",
+      "0",
+      "∞",
+      "undefined"
+    ],
+    "correctAns": "1",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which rule finds derivatives of composite functions?",
+    "options": [
+      "Chain rule",
+      "Product rule",
+      "Quotient rule",
+      "Power rule"
+    ],
+    "correctAns": "Chain rule",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does ∫[a,b] f(x) dx represent geometrically?",
+    "options": [
+      "Area under curve",
+      "Slope of tangent",
+      "Length of curve",
+      "Volume of solid"
+    ],
+    "correctAns": "Area under curve",
+    "category": "Mathematics"
+  },
+  {
+    "question": "If f'(x) > 0 on an interval, what is true about f(x)?",
+    "options": [
+      "f is increasing",
+      "f is decreasing",
+      "f is constant",
+      "f is concave up"
+    ],
+    "correctAns": "f is increasing",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the antiderivative of cos x?",
+    "options": [
+      "sin x + C",
+      "-sin x + C",
+      "cos x + C",
+      "-cos x + C"
+    ],
+    "correctAns": "sin x + C",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which theorem guarantees a point where instantaneous rate equals average rate?",
+    "options": [
+      "Mean Value Theorem",
+      "Intermediate Value Theorem",
+      "Fundamental Theorem",
+      "Extreme Value Theorem"
+    ],
+    "correctAns": "Mean Value Theorem",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is dy/dx if y = e^(2x)?",
+    "options": [
+      "2e^(2x)",
+      "e^(2x)",
+      "2e^x",
+      "e^(2x)/2"
+    ],
+    "correctAns": "2e^(2x)",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which integration technique reverses the chain rule?",
+    "options": [
+      "Substitution",
+      "By parts",
+      "Partial fractions",
+      "Trig substitution"
+    ],
+    "correctAns": "Substitution",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of ln(x)?",
+    "options": [
+      "1/x",
+      "x",
+      "e^x",
+      "1"
+    ],
+    "correctAns": "1/x",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does Newton's First Law describe?",
+    "options": [
+      "Inertia",
+      "Force and acceleration",
+      "Action-reaction pairs",
+      "Gravity"
+    ],
+    "correctAns": "Inertia",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the formula for Newton's Second Law?",
+    "options": [
+      "F = ma",
+      "p = mv",
+      "W = Fd",
+      "KE = ½mv²"
+    ],
+    "correctAns": "F = ma",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "According to Newton's Third Law, if you push a wall with 50N, what force does the wall exert on you?",
+    "options": [
+      "50N in opposite direction",
+      "50N in same direction",
+      "100N in opposite direction",
+      "0N"
+    ],
+    "correctAns": "50N in opposite direction",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What provides the centripetal force for a car turning on a flat road?",
+    "options": [
+      "Friction",
+      "Gravity",
+      "Normal force",
+      "Air resistance"
+    ],
+    "correctAns": "Friction",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the momentum of a 5kg object moving at 4m/s?",
+    "options": [
+      "20 kg·m/s",
+      "10 kg·m/s",
+      "80 kg·m/s",
+      "2 kg·m/s"
+    ],
+    "correctAns": "20 kg·m/s",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "In an elastic collision, what is conserved?",
+    "options": [
+      "Momentum and kinetic energy",
+      "Only momentum",
+      "Only kinetic energy",
+      "Neither"
+    ],
+    "correctAns": "Momentum and kinetic energy",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the work done when carrying a box horizontally?",
+    "options": [
+      "Zero",
+      "mgh",
+      "½mv²",
+      "Fd"
+    ],
+    "correctAns": "Zero",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the kinetic energy of a 2kg object moving at 3m/s?",
+    "options": [
+      "9J",
+      "6J",
+      "18J",
+      "4.5J"
+    ],
+    "correctAns": "9J",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which force is always attractive?",
+    "options": [
+      "Gravity",
+      "Normal",
+      "Friction",
+      "Tension"
+    ],
+    "correctAns": "Gravity",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is impulse equal to?",
+    "options": [
+      "Change in momentum",
+      "Force times distance",
+      "Mass times acceleration",
+      "Work done"
+    ],
+    "correctAns": "Change in momentum",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "In a pulley system, what is constant throughout a massless rope?",
+    "options": [
+      "Tension",
+      "Velocity",
+      "Acceleration",
+      "Force direction"
+    ],
+    "correctAns": "Tension",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What type of energy does a compressed spring have?",
+    "options": [
+      "Elastic potential",
+      "Kinetic",
+      "Gravitational potential",
+      "Thermal"
+    ],
+    "correctAns": "Elastic potential",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Who created the first widely recognized periodic table?",
+    "options": [
+      "Dmitri Mendeleev",
+      "Henry Moseley",
+      "John Dalton",
+      "Antoine Lavoisier"
+    ],
+    "correctAns": "Dmitri Mendeleev",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the modern basis for organizing the periodic table?",
+    "options": [
+      "Atomic number",
+      "Atomic mass",
+      "Electron configuration",
+      "Chemical properties"
+    ],
+    "correctAns": "Atomic number",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which group contains the most reactive metals?",
+    "options": [
+      "Group 1",
+      "Group 2",
+      "Group 17",
+      "Group 18"
+    ],
+    "correctAns": "Group 1",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What happens to atomic radius across a period?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Stays the same",
+      "Varies randomly"
+    ],
+    "correctAns": "Decreases",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "correctAns": "Fluorine",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the electron configuration of noble gases?",
+    "options": [
+      "ns²np⁶",
+      "ns¹",
+      "ns²np⁵",
+      "ns²"
+    ],
+    "correctAns": "ns²np⁶",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which block do transition metals belong to?",
+    "options": [
+      "d-block",
+      "s-block",
+      "p-block",
+      "f-block"
+    ],
+    "correctAns": "d-block",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What type of ions do Group 17 elements typically form?",
+    "options": [
+      "-1 anions",
+      "+1 cations",
+      "+2 cations",
+      "-2 anions"
+    ],
+    "correctAns": "-1 anions",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which trend describes ionization energy down a group?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Stays constant",
+      "Irregular"
+    ],
+    "correctAns": "Decreases",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the most common oxidation state of alkali metals?",
+    "options": [
+      "+1",
+      "+2",
+      "+3",
+      "-1"
+    ],
+    "correctAns": "+1",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which elements are known as halogens?",
+    "options": [
+      "Group 17",
+      "Group 1",
+      "Group 2",
+      "Group 18"
+    ],
+    "correctAns": "Group 17",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What property generally increases across a period?",
+    "options": [
+      "Ionization energy",
+      "Atomic radius",
+      "Metallic character",
+      "Reactivity of metals"
+    ],
+    "correctAns": "Ionization energy",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Who first observed and named cells?",
+    "options": [
+      "Robert Hooke",
+      "Anton van Leeuwenhoek",
+      "Matthias Schleiden",
+      "Theodor Schwann"
+    ],
+    "correctAns": "Robert Hooke",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correctAns": "Mitochondria",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the basic unit of life according to cell theory?",
+    "options": [
+      "Cell",
+      "Atom",
+      "Molecule",
+      "Organ"
+    ],
+    "correctAns": "Cell",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which type of cell lacks a nucleus?",
+    "options": [
+      "Prokaryotic",
+      "Eukaryotic",
+      "Animal",
+      "Plant"
+    ],
+    "correctAns": "Prokaryotic",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Where does protein synthesis occur?",
+    "options": [
+      "Ribosomes",
+      "Nucleus",
+      "Mitochondria",
+      "Cell membrane"
+    ],
+    "correctAns": "Ribosomes",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What process do plant cells use to make food?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Digestion",
+      "Fermentation"
+    ],
+    "correctAns": "Photosynthesis",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which structure gives plant cells their rigid shape?",
+    "options": [
+      "Cell wall",
+      "Cell membrane",
+      "Cytoskeleton",
+      "Vacuole"
+    ],
+    "correctAns": "Cell wall",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the function of the nucleus?",
+    "options": [
+      "Control center",
+      "Energy production",
+      "Protein synthesis",
+      "Waste removal"
+    ],
+    "correctAns": "Control center",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which cells are capable of becoming any cell type?",
+    "options": [
+      "Embryonic stem cells",
+      "Skin cells",
+      "Muscle cells",
+      "Nerve cells"
+    ],
+    "correctAns": "Embryonic stem cells",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the main energy currency of cells?",
+    "options": [
+      "ATP",
+      "DNA",
+      "Glucose",
+      "Oxygen"
+    ],
+    "correctAns": "ATP",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which organelle contains digestive enzymes?",
+    "options": [
+      "Lysosome",
+      "Mitochondria",
+      "Chloroplast",
+      "Endoplasmic reticulum"
+    ],
+    "correctAns": "Lysosome",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What process creates two identical daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "correctAns": "Mitosis",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What are the four nitrogenous bases in DNA?",
+    "options": [
+      "Adenine, Thymine, Cytosine, Guanine",
+      "Adenine, Uracil, Cytosine, Guanine",
+      "Adenosine, Thymidine, Cytidine, Guanosine",
+      "Alanine, Threonine, Cysteine, Glycine"
+    ],
+    "correctAns": "Adenine, Thymine, Cytosine, Guanine",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which scientist is known as the father of genetics?",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "James Watson",
+      "Rosalind Franklin"
+    ],
+    "correctAns": "Gregor Mendel",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the complementary DNA strand for 5'-ATCG-3'?",
+    "options": [
+      "3'-TAGC-5'",
+      "3'-ATCG-5'",
+      "3'-GCTA-5'",
+      "3'-CGAT-5'"
+    ],
+    "correctAns": "3'-TAGC-5'",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which process converts DNA to RNA?",
+    "options": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Transformation"
+    ],
+    "correctAns": "Transcription",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What does PCR stand for?",
+    "options": [
+      "Polymerase Chain Reaction",
+      "Protein Coding Region",
+      "Polynucleotide Copying Reaction",
+      "Primary Cellular Replication"
+    ],
+    "correctAns": "Polymerase Chain Reaction",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "How many chromosomes do humans typically have in somatic cells?",
+    "options": [
+      "46",
+      "23",
+      "92",
+      "44"
+    ],
+    "correctAns": "46",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which type of mutation involves a single base change?",
+    "options": [
+      "Point mutation",
+      "Frameshift mutation",
+      "Chromosomal mutation",
+      "Insertion mutation"
+    ],
+    "correctAns": "Point mutation",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the start codon for protein synthesis?",
+    "options": [
+      "AUG",
+      "UAA",
+      "UAG",
+      "UGA"
+    ],
+    "correctAns": "AUG",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which law states that alleles separate during gamete formation?",
+    "options": [
+      "Law of Segregation",
+      "Law of Independent Assortment",
+      "Law of Dominance",
+      "Law of Inheritance"
+    ],
+    "correctAns": "Law of Segregation",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What enzyme is primarily responsible for DNA replication?",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Helicase",
+      "Ligase"
+    ],
+    "correctAns": "DNA polymerase",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which genetic disorder results from trisomy 21?",
+    "options": [
+      "Down syndrome",
+      "Turner syndrome",
+      "Klinefelter syndrome",
+      "Cri du chat syndrome"
+    ],
+    "correctAns": "Down syndrome",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What does CRISPR-Cas9 technology primarily do?",
+    "options": [
+      "Gene editing",
+      "DNA sequencing",
+      "Protein synthesis",
+      "Cell division"
+    ],
+    "correctAns": "Gene editing",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What principle states the fundamental limit on simultaneous position and momentum measurement?",
+    "options": [
+      "Heisenberg Uncertainty Principle",
+      "Pauli Exclusion Principle",
+      "Born Rule",
+      "Schrödinger Equation"
+    ],
+    "correctAns": "Heisenberg Uncertainty Principle",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which equation describes the time evolution of quantum systems?",
+    "options": [
+      "Schrödinger Equation",
+      "Dirac Equation",
+      "Maxwell's Equations",
+      "Einstein Field Equations"
+    ],
+    "correctAns": "Schrödinger Equation",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the zero-point energy of a quantum harmonic oscillator?",
+    "options": [
+      "½ℏω",
+      "ℏω",
+      "2ℏω",
+      "0"
+    ],
+    "correctAns": "½ℏω",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which particles obey Fermi-Dirac statistics?",
+    "options": [
+      "Fermions",
+      "Bosons",
+      "Photons",
+      "Gravitons"
+    ],
+    "correctAns": "Fermions",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What quantum phenomenon allows particles to penetrate classically forbidden regions?",
+    "options": [
+      "Quantum Tunneling",
+      "Superposition",
+      "Entanglement",
+      "Decoherence"
+    ],
+    "correctAns": "Quantum Tunneling",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which mathematical space do quantum states inhabit?",
+    "options": [
+      "Hilbert Space",
+      "Euclidean Space",
+      "Minkowski Space",
+      "Phase Space"
+    ],
+    "correctAns": "Hilbert Space",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the ground state energy of a particle in an infinite square well?",
+    "options": [
+      "Non-zero due to quantization",
+      "Zero",
+      "Infinite",
+      "Depends on particle speed"
+    ],
+    "correctAns": "Non-zero due to quantization",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which principle forbids two identical fermions from occupying the same quantum state?",
+    "options": [
+      "Pauli Exclusion Principle",
+      "Heisenberg Principle",
+      "Uncertainty Principle",
+      "Correspondence Principle"
+    ],
+    "correctAns": "Pauli Exclusion Principle",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What property allows qubits to represent both 0 and 1 simultaneously?",
+    "options": [
+      "Superposition",
+      "Entanglement",
+      "Tunneling",
+      "Interference"
+    ],
+    "correctAns": "Superposition",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which quantum number determines the energy of an electron in a hydrogen atom?",
+    "options": [
+      "Principal quantum number (n)",
+      "Angular momentum (l)",
+      "Magnetic (m)",
+      "Spin (s)"
+    ],
+    "correctAns": "Principal quantum number (n)",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the de Broglie relation connecting wavelength and momentum?",
+    "options": [
+      "λ = h/p",
+      "E = hf",
+      "p = mv",
+      "E = mc²"
+    ],
+    "correctAns": "λ = h/p",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which protocol is used for quantum key distribution?",
+    "options": [
+      "BB84",
+      "RSA",
+      "AES",
+      "DH"
+    ],
+    "correctAns": "BB84",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the hybridization of carbon in methane?",
+    "options": [
+      "sp³",
+      "sp²",
+      "sp",
+      "dsp³"
+    ],
+    "correctAns": "sp³",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which functional group characterizes alcohols?",
+    "options": [
+      "-OH",
+      "-COOH",
+      "-CHO",
+      "-NH₂"
+    ],
+    "correctAns": "-OH",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What type of isomers are mirror images of each other?",
+    "options": [
+      "Enantiomers",
+      "Diastereomers",
+      "Conformational isomers",
+      "Structural isomers"
+    ],
+    "correctAns": "Enantiomers",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which rule predicts the major product in electrophilic addition to alkenes?",
+    "options": [
+      "Markovnikov's rule",
+      "Zaitsev's rule",
+      "Hund's rule",
+      "Pauli's rule"
+    ],
+    "correctAns": "Markovnikov's rule",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What does IR spectroscopy primarily identify?",
+    "options": [
+      "Functional groups",
+      "Molecular weight",
+      "Carbon framework",
+      "Optical activity"
+    ],
+    "correctAns": "Functional groups",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which carbon hybridization has linear geometry?",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correctAns": "sp",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the general formula for alkanes?",
+    "options": [
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙHₙ"
+    ],
+    "correctAns": "CₙH₂ₙ₊₂",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which spectroscopy technique uses magnetic fields?",
+    "options": [
+      "NMR",
+      "IR",
+      "UV-Vis",
+      "Mass spectrometry"
+    ],
+    "correctAns": "NMR",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What type of reaction do alkenes primarily undergo?",
+    "options": [
+      "Addition",
+      "Substitution",
+      "Elimination",
+      "Rearrangement"
+    ],
+    "correctAns": "Addition",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which element is fundamental to organic chemistry?",
+    "options": [
+      "Carbon",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAns": "Carbon",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What does the R in R/S configuration stand for?",
+    "options": [
+      "Rectus (right)",
+      "Radical",
+      "Rotation",
+      "Reactive"
+    ],
+    "correctAns": "Rectus (right)",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which technique separates mixtures based on polarity?",
+    "options": [
+      "Chromatography",
+      "Spectroscopy",
+      "Crystallization",
+      "Distillation"
+    ],
+    "correctAns": "Chromatography",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": [
+      "299,792,458 m/s",
+      "300,000,000 m/s",
+      "186,000 m/s",
+      "3×10⁸ km/s"
+    ],
+    "correctAns": "299,792,458 m/s",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which principle states that physical laws are the same in all inertial frames?",
+    "options": [
+      "Principle of Relativity",
+      "Equivalence Principle",
+      "Uncertainty Principle",
+      "Pauli Exclusion Principle"
+    ],
+    "correctAns": "Principle of Relativity",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What does E = mc² represent?",
+    "options": [
+      "Mass-energy equivalence",
+      "Energy conservation",
+      "Momentum conservation",
+      "Wave-particle duality"
+    ],
+    "correctAns": "Mass-energy equivalence",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which experiment showed light speed is constant for all observers?",
+    "options": [
+      "Michelson-Morley",
+      "Young's double-slit",
+      "Stern-Gerlach",
+      "Millikan oil-drop"
+    ],
+    "correctAns": "Michelson-Morley",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What phenomenon causes moving clocks to run slow?",
+    "options": [
+      "Time dilation",
+      "Length contraction",
+      "Gravitational redshift",
+      "Quantum decoherence"
+    ],
+    "correctAns": "Time dilation",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "In general relativity, gravity is described as:",
+    "options": [
+      "Spacetime curvature",
+      "Force between masses",
+      "Exchange of gravitons",
+      "Quantum field effect"
+    ],
+    "correctAns": "Spacetime curvature",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the Lorentz factor formula?",
+    "options": [
+      "γ = 1/√(1-v²/c²)",
+      "γ = v/c",
+      "γ = mc²",
+      "γ = hf"
+    ],
+    "correctAns": "γ = 1/√(1-v²/c²)",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which astronomical observation first confirmed general relativity?",
+    "options": [
+      "Mercury's perihelion precession",
+      "Jupiter's moons",
+      "Hubble expansion",
+      "Cosmic background radiation"
+    ],
+    "correctAns": "Mercury's perihelion precession",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What must GPS systems account for due to relativity?",
+    "options": [
+      "Time dilation effects",
+      "Length contraction",
+      "Quantum fluctuations",
+      "Dark matter distribution"
+    ],
+    "correctAns": "Time dilation effects",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What are ripples in spacetime called?",
+    "options": [
+      "Gravitational waves",
+      "Electromagnetic waves",
+      "Quantum waves",
+      "Sound waves"
+    ],
+    "correctAns": "Gravitational waves",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the boundary around a black hole called?",
+    "options": [
+      "Event horizon",
+      "Schwarzschild radius",
+      "Photon sphere",
+      "Singularity"
+    ],
+    "correctAns": "Event horizon",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which principle equates gravitational and inertial mass?",
+    "options": [
+      "Equivalence principle",
+      "Relativity principle",
+      "Correspondence principle",
+      "Exclusion principle"
+    ],
+    "correctAns": "Equivalence principle",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the study of interactions between organisms and their environment?",
+    "options": [
+      "Ecology",
+      "Biology",
+      "Geology",
+      "Meteorology"
+    ],
+    "correctAns": "Ecology",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which term describes all populations in a particular area?",
+    "options": [
+      "Community",
+      "Ecosystem",
+      "Biosphere",
+      "Population"
+    ],
+    "correctAns": "Community",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What percentage of energy typically transfers between trophic levels?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "90%"
+    ],
+    "correctAns": "10%",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which relationship benefits both species involved?",
+    "options": [
+      "Mutualism",
+      "Parasitism",
+      "Commensalism",
+      "Competition"
+    ],
+    "correctAns": "Mutualism",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the initial colonization of bare rock called?",
+    "options": [
+      "Primary succession",
+      "Secondary succession",
+      "Pioneer stage",
+      "Climax community"
+    ],
+    "correctAns": "Primary succession",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which theory explains species diversity on islands?",
+    "options": [
+      "Island Biogeography",
+      "Succession Theory",
+      "Niche Theory",
+      "Competitive Exclusion"
+    ],
+    "correctAns": "Island Biogeography",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What do keystone species have on their ecosystems?",
+    "options": [
+      "Disproportionate impact",
+      "No impact",
+      "Average impact",
+      "Negative impact only"
+    ],
+    "correctAns": "Disproportionate impact",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which cycle involves movement of carbon through ecosystems?",
+    "options": [
+      "Carbon cycle",
+      "Nitrogen cycle",
+      "Water cycle",
+      "Phosphorus cycle"
+    ],
+    "correctAns": "Carbon cycle",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What is the main threat to biodiversity worldwide?",
+    "options": [
+      "Habitat destruction",
+      "Climate change",
+      "Pollution",
+      "Invasive species"
+    ],
+    "correctAns": "Habitat destruction",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which dispersion pattern shows individuals evenly spaced?",
+    "options": [
+      "Uniform",
+      "Clumped",
+      "Random",
+      "Dense"
+    ],
+    "correctAns": "Uniform",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What does NPP stand for in ecology?",
+    "options": [
+      "Net Primary Productivity",
+      "Natural Population Pattern",
+      "Nutrient Processing Pathway",
+      "Native Plant Preservation"
+    ],
+    "correctAns": "Net Primary Productivity",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "Which type of species colonizes first in succession?",
+    "options": [
+      "Pioneer species",
+      "Climax species",
+      "Keystone species",
+      "Invasive species"
+    ],
+    "correctAns": "Pioneer species",
+    "category": "Physics, Chemistry and Biology"
+  },
+  {
+    "question": "What event started the Civil War in April 1861?",
+    "options": [
+      "Attack on Fort Sumter",
+      "Battle of Bull Run",
+      "Emancipation Proclamation",
+      "Election of Lincoln"
+    ],
+    "correctAns": "Attack on Fort Sumter",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which battle was the war's bloodiest single engagement?",
+    "options": [
+      "Gettysburg",
+      "Antietam",
+      "Vicksburg",
+      "Shiloh"
+    ],
+    "correctAns": "Gettysburg",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What document declared slaves in rebellious states free?",
+    "options": [
+      "Emancipation Proclamation",
+      "Gettysburg Address",
+      "Thirteenth Amendment",
+      "Declaration of Independence"
+    ],
+    "correctAns": "Emancipation Proclamation",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Where did Lee surrender to Grant in 1865?",
+    "options": [
+      "Appomattox Court House",
+      "Richmond",
+      "Washington DC",
+      "Atlanta"
+    ],
+    "correctAns": "Appomattox Court House",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the Union strategy called?",
+    "options": [
+      "Anaconda Plan",
+      "Southern Offensive",
+      "Total War",
+      "Blockade Only"
+    ],
+    "correctAns": "Anaconda Plan",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which state was first to secede from the Union?",
+    "options": [
+      "South Carolina",
+      "Virginia",
+      "Georgia",
+      "Alabama"
+    ],
+    "correctAns": "South Carolina",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What famous black regiment attacked Fort Wagner?",
+    "options": [
+      "54th Massachusetts",
+      "1st Kansas Colored",
+      "29th Connecticut",
+      "5th United States"
+    ],
+    "correctAns": "54th Massachusetts",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which amendment abolished slavery?",
+    "options": [
+      "13th",
+      "14th",
+      "15th",
+      "16th"
+    ],
+    "correctAns": "13th",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What general marched through Georgia?",
+    "options": [
+      "William Sherman",
+      "Ulysses Grant",
+      "George Meade",
+      "Philip Sheridan"
+    ],
+    "correctAns": "William Sherman",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which battle was the first major engagement?",
+    "options": [
+      "First Bull Run",
+      "Fort Sumter",
+      "Shiloh",
+      "Antietam"
+    ],
+    "correctAns": "First Bull Run",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the Confederate capital?",
+    "options": [
+      "Richmond, Virginia",
+      "Montgomery, Alabama",
+      "Atlanta, Georgia",
+      "Charleston, South Carolina"
+    ],
+    "correctAns": "Richmond, Virginia",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Approximately how many soldiers died in the war?",
+    "options": [
+      "620,000",
+      "250,000",
+      "1 million",
+      "100,000"
+    ],
+    "correctAns": "620,000",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What is the result of multiplying a matrix by its inverse?",
+    "options": [
+      "Identity matrix",
+      "Zero matrix",
+      "The original matrix",
+      "Transpose matrix"
+    ],
+    "correctAns": "Identity matrix",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which property must a set of vectors have to form a basis?",
+    "options": [
+      "Linear independence and span the space",
+      "Be orthogonal to each other",
+      "Have the same magnitude",
+      "Be unit vectors"
+    ],
+    "correctAns": "Linear independence and span the space",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does a zero determinant indicate about a matrix?",
+    "options": [
+      "It is not invertible",
+      "It is symmetric",
+      "It is orthogonal",
+      "It is diagonal"
+    ],
+    "correctAns": "It is not invertible",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which decomposition is always possible for any matrix?",
+    "options": [
+      "Singular Value Decomposition",
+      "Eigenvalue decomposition",
+      "Diagonalization",
+      "LU decomposition"
+    ],
+    "correctAns": "Singular Value Decomposition",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the geometric interpretation of eigenvectors?",
+    "options": [
+      "Directions unchanged by transformation",
+      "Points of intersection",
+      "Areas of maximum change",
+      "Centers of rotation"
+    ],
+    "correctAns": "Directions unchanged by transformation",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which norm is calculated as sqrt(x² + y² + z²)?",
+    "options": [
+      "Euclidean norm",
+      "Manhattan norm",
+      "Maximum norm",
+      "Taxicab norm"
+    ],
+    "correctAns": "Euclidean norm",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does the rank of a matrix represent?",
+    "options": [
+      "Dimension of column space",
+      "Number of rows",
+      "Sum of diagonal elements",
+      "Determinant value"
+    ],
+    "correctAns": "Dimension of column space",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which process orthogonalizes a set of vectors?",
+    "options": [
+      "Gram-Schmidt",
+      "Gaussian elimination",
+      "LU decomposition",
+      "Matrix inversion"
+    ],
+    "correctAns": "Gram-Schmidt",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the result of A × I where I is identity matrix?",
+    "options": [
+      "A",
+      "I",
+      "Zero matrix",
+      "A transpose"
+    ],
+    "correctAns": "A",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which theorem relates rank and nullity of a matrix?",
+    "options": [
+      "Rank-Nullity Theorem",
+      "Spectral Theorem",
+      "Pythagorean Theorem",
+      "Fundamental Theorem"
+    ],
+    "correctAns": "Rank-Nullity Theorem",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What type of matrix has A = Aᵀ?",
+    "options": [
+      "Symmetric matrix",
+      "Orthogonal matrix",
+      "Diagonal matrix",
+      "Identity matrix"
+    ],
+    "correctAns": "Symmetric matrix",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which method solves linear systems using row operations?",
+    "options": [
+      "Gaussian elimination",
+      "Matrix inversion",
+      "Eigen decomposition",
+      "SVD decomposition"
+    ],
+    "correctAns": "Gaussian elimination",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the most basic type of transition?",
+    "options": [
+      "Cut",
+      "Fade",
+      "Dissolve",
+      "Wipe"
+    ],
+    "correctAns": "Cut",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which software is known for being free and professional-grade?",
+    "options": [
+      "DaVinci Resolve",
+      "Adobe Premiere",
+      "Final Cut Pro",
+      "iMovie"
+    ],
+    "correctAns": "DaVinci Resolve",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does the three-act structure consist of?",
+    "options": [
+      "Beginning, Middle, End",
+      "Setup, Story, Conclusion",
+      "Intro, Body, Outro",
+      "Act 1, Act 2, Act 3"
+    ],
+    "correctAns": "Beginning, Middle, End",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which technique uses a green background for replacing backgrounds?",
+    "options": [
+      "Chroma Key",
+      "Motion Tracking",
+      "Color Grading",
+      "Stabilization"
+    ],
+    "correctAns": "Chroma Key",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the purpose of J-cuts and L-cuts?",
+    "options": [
+      "Smooth audio transitions",
+      "Color correction",
+      "Adding effects",
+      "File organization"
+    ],
+    "correctAns": "Smooth audio transitions",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which format is most commonly used for online video?",
+    "options": [
+      "MP4",
+      "AVI",
+      "MOV",
+      "WMV"
+    ],
+    "correctAns": "MP4",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does LUT stand for in color grading?",
+    "options": [
+      "Look-Up Table",
+      "Lighting Utility Tool",
+      "Level Update Technique",
+      "Luminance Uniformity Table"
+    ],
+    "correctAns": "Look-Up Table",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which aspect ratio is best for TikTok?",
+    "options": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:3"
+    ],
+    "correctAns": "9:16",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What is the first step in basic editing workflow?",
+    "options": [
+      "Import footage",
+      "Add transitions",
+      "Color correction",
+      "Export video"
+    ],
+    "correctAns": "Import footage",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which codec is commonly used for professional editing?",
+    "options": [
+      "ProRes",
+      "H.264",
+      "MPEG-2",
+      "WMV"
+    ],
+    "correctAns": "ProRes",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What does multi-camera editing synchronize?",
+    "options": [
+      "Footage from multiple angles",
+      "Audio and video",
+      "Color between clips",
+      "Export settings"
+    ],
+    "correctAns": "Footage from multiple angles",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Why is file organization important in video editing?",
+    "options": [
+      "Efficiency and preventing data loss",
+      "Making videos look better",
+      "Increasing export speed",
+      "Adding special effects"
+    ],
+    "correctAns": "Efficiency and preventing data loss",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Who wrote Le Morte d'Arthur?",
+    "options": [
+      "Thomas Malory",
+      "Geoffrey of Monmouth",
+      "Chrétien de Troyes",
+      "Alfred Tennyson"
+    ],
+    "correctAns": "Thomas Malory",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the name of Arthur's magical sword?",
+    "options": [
+      "Excalibur",
+      "Caliburn",
+      "Clarent",
+      "Joyeuse"
+    ],
+    "correctAns": "Excalibur",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which knight achieved the Holy Grail?",
+    "options": [
+      "Galahad",
+      "Lancelot",
+      "Gawain",
+      "Tristan"
+    ],
+    "correctAns": "Galahad",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Where was Arthur taken after his final battle?",
+    "options": [
+      "Avalon",
+      "Camelot",
+      "Glastonbury",
+      "Tintagel"
+    ],
+    "correctAns": "Avalon",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who was Arthur's court magician?",
+    "options": [
+      "Merlin",
+      "Morgan le Fay",
+      "Nimue",
+      "Mab"
+    ],
+    "correctAns": "Merlin",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What caused the downfall of Camelot?",
+    "options": [
+      "Lancelot and Guinevere's affair",
+      "Mordred's rebellion",
+      "Grail Quest",
+      "Saxon invasions"
+    ],
+    "correctAns": "Lancelot and Guinevere's affair",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which French poet introduced Lancelot?",
+    "options": [
+      "Chrétien de Troyes",
+      "Marie de France",
+      "Geoffrey of Monmouth",
+      "Thomas Malory"
+    ],
+    "correctAns": "Chrétien de Troyes",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What did the Round Table symbolize?",
+    "options": [
+      "Equality among knights",
+      "Arthur's wealth",
+      "Christian unity",
+      "Military power"
+    ],
+    "correctAns": "Equality among knights",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Who was Arthur's traitorous son/nephew?",
+    "options": [
+      "Mordred",
+      "Gawain",
+      "Agravain",
+      "Gaheris"
+    ],
+    "correctAns": "Mordred",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which Victorian poet wrote Idylls of the King?",
+    "options": [
+      "Alfred Tennyson",
+      "William Wordsworth",
+      "Robert Browning",
+      "Matthew Arnold"
+    ],
+    "correctAns": "Alfred Tennyson",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "What was the Siege Perilous?",
+    "options": [
+      "Empty seat for Grail knight",
+      "Arthur's throne",
+      "Dangerous battlefield",
+      "Magic prison"
+    ],
+    "correctAns": "Empty seat for Grail knight",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Where did Arthur obtain Excalibur?",
+    "options": [
+      "The Lady of the Lake",
+      "The Sword in Stone",
+      "Merlin's cave",
+      "Roman ruins"
+    ],
+    "correctAns": "The Lady of the Lake",
+    "category": "History and Mythology"
+  },
+  {
+    "question": "Which principle shows objects deforming during movement?",
+    "options": [
+      "Squash and Stretch",
+      "Anticipation",
+      "Staging",
+      "Appeal"
+    ],
+    "correctAns": "Squash and Stretch",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What prepares viewers for upcoming actions?",
+    "options": [
+      "Anticipation",
+      "Follow Through",
+      "Arcs",
+      "Timing"
+    ],
+    "correctAns": "Anticipation",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which principle continues movement after the main action stops?",
+    "options": [
+      "Follow Through",
+      "Slow In Slow Out",
+      "Solid Drawing",
+      "Exaggeration"
+    ],
+    "correctAns": "Follow Through",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What do natural movements follow?",
+    "options": [
+      "Arcs",
+      "Straight lines",
+      "Zigzags",
+      "Random paths"
+    ],
+    "correctAns": "Arcs",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which principle makes animation more entertaining and expressive?",
+    "options": [
+      "Exaggeration",
+      "Staging",
+      "Timing",
+      "Solid Drawing"
+    ],
+    "correctAns": "Exaggeration",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What are the most important poses in animation called?",
+    "options": [
+      "Keyframes",
+      "Inbetweens",
+      "Extremes",
+      "Breakdowns"
+    ],
+    "correctAns": "Keyframes",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which technique shows multiple frames simultaneously?",
+    "options": [
+      "Onion Skinning",
+      "Rotoscoping",
+      "Tweening",
+      "Rigging"
+    ],
+    "correctAns": "Onion Skinning",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What makes characters interesting and engaging?",
+    "options": [
+      "Appeal",
+      "Solid Drawing",
+      "Staging",
+      "Squash and Stretch"
+    ],
+    "correctAns": "Appeal",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which principle supports and enriches the main action?",
+    "options": [
+      "Secondary Action",
+      "Anticipation",
+      "Follow Through",
+      "Arcs"
+    ],
+    "correctAns": "Secondary Action",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What determines when something happens in animation?",
+    "options": [
+      "Timing",
+      "Spacing",
+      "Weight",
+      "Balance"
+    ],
+    "correctAns": "Timing",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which animation method creates frames sequentially?",
+    "options": [
+      "Straight Ahead",
+      "Pose-to-Pose",
+      "Keyframe",
+      "Procedural"
+    ],
+    "correctAns": "Straight Ahead",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "What matches mouth movements to dialogue?",
+    "options": [
+      "Lip Sync",
+      "Phoneme Animation",
+      "Facial Rigging",
+      "Voice Matching"
+    ],
+    "correctAns": "Lip Sync",
+    "category": "Arts & Creativity"
+  },
+  {
+    "question": "Which logical connective is true only when both inputs are true?",
+    "options": [
+      "AND",
+      "OR",
+      "NOT",
+      "XOR"
+    ],
+    "correctAns": "AND",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the set containing no elements called?",
+    "options": [
+      "Empty set",
+      "Null set",
+      "Zero set",
+      "Void set"
+    ],
+    "correctAns": "Empty set",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which proof method assumes the opposite is true?",
+    "options": [
+      "Proof by contradiction",
+      "Direct proof",
+      "Mathematical induction",
+      "Constructive proof"
+    ],
+    "correctAns": "Proof by contradiction",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the size of the power set of {a, b, c}?",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "3"
+    ],
+    "correctAns": "8",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which relation property requires aRb and bRc implies aRc?",
+    "options": [
+      "Transitive",
+      "Reflexive",
+      "Symmetric",
+      "Equivalence"
+    ],
+    "correctAns": "Transitive",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is f(g(x)) called?",
+    "options": [
+      "Composition",
+      "Inverse",
+      "Product",
+      "Sum"
+    ],
+    "correctAns": "Composition",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which law states ¬(p ∧ q) ≡ ¬p ∨ ¬q?",
+    "options": [
+      "De Morgan's Law",
+      "Distributive Law",
+      "Associative Law",
+      "Commutative Law"
+    ],
+    "correctAns": "De Morgan's Law",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is |A ∪ B| equal to when A and B are disjoint?",
+    "options": [
+      "|A| + |B|",
+      "|A| × |B|",
+      "|A| - |B|",
+      "max(|A|, |B|)"
+    ],
+    "correctAns": "|A| + |B|",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which function property means each input has unique output?",
+    "options": [
+      "Well-defined",
+      "Injective",
+      "Surjective",
+      "Bijective"
+    ],
+    "correctAns": "Well-defined",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does mathematical induction prove?",
+    "options": [
+      "Statements for all natural numbers",
+      "Statements for real numbers",
+      "Existential statements",
+      "Negative statements"
+    ],
+    "correctAns": "Statements for all natural numbers",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which set operation finds common elements?",
+    "options": [
+      "Intersection",
+      "Union",
+      "Difference",
+      "Complement"
+    ],
+    "correctAns": "Intersection",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the converse of \"if p then q\"?",
+    "options": [
+      "if q then p",
+      "if not p then not q",
+      "if not q then not p",
+      "p and q"
+    ],
+    "correctAns": "if q then p",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the range of probability values?",
+    "options": [
+      "0 to 1",
+      "-1 to 1",
+      "0 to 100",
+      "0 to infinity"
+    ],
+    "correctAns": "0 to 1",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which measure of center is most affected by outliers?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correctAns": "Mean",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does a correlation of 0 indicate?",
+    "options": [
+      "No linear relationship",
+      "Perfect positive relationship",
+      "Perfect negative relationship",
+      "Non-linear relationship"
+    ],
+    "correctAns": "No linear relationship",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which distribution is symmetric and bell-shaped?",
+    "options": [
+      "Normal distribution",
+      "Binomial distribution",
+      "Poisson distribution",
+      "Exponential distribution"
+    ],
+    "correctAns": "Normal distribution",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the null hypothesis in testing?",
+    "options": [
+      "The hypothesis of no effect",
+      "The research hypothesis",
+      "The alternative hypothesis",
+      "The significant hypothesis"
+    ],
+    "correctAns": "The hypothesis of no effect",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which theorem states sample means approach normal distribution?",
+    "options": [
+      "Central Limit Theorem",
+      "Bayes' Theorem",
+      "Pythagorean Theorem",
+      "Fundamental Theorem"
+    ],
+    "correctAns": "Central Limit Theorem",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does a p-value less than 0.05 typically indicate?",
+    "options": [
+      "Statistical significance",
+      "Practical importance",
+      "Causation",
+      "Large effect size"
+    ],
+    "correctAns": "Statistical significance",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which probability uses prior knowledge?",
+    "options": [
+      "Bayesian probability",
+      "Frequentist probability",
+      "Theoretical probability",
+      "Empirical probability"
+    ],
+    "correctAns": "Bayesian probability",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What is the square root of variance called?",
+    "options": [
+      "Standard deviation",
+      "Standard error",
+      "Mean deviation",
+      "Root mean square"
+    ],
+    "correctAns": "Standard deviation",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which visual shows five-number summary?",
+    "options": [
+      "Box plot",
+      "Histogram",
+      "Scatter plot",
+      "Bar chart"
+    ],
+    "correctAns": "Box plot",
+    "category": "Mathematics"
+  },
+  {
+    "question": "What does R-squared measure in regression?",
+    "options": [
+      "Proportion of variance explained",
+      "Statistical significance",
+      "Correlation coefficient",
+      "Prediction accuracy"
+    ],
+    "correctAns": "Proportion of variance explained",
+    "category": "Mathematics"
+  },
+  {
+    "question": "Which error rejects a true null hypothesis?",
+    "options": [
+      "Type I error",
+      "Type II error",
+      "Type III error",
+      "Sampling error"
+    ],
+    "correctAns": "Type I error",
+    "category": "Mathematics"
+  }
+]
