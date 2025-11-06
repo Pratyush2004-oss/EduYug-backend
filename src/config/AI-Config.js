@@ -3,25 +3,54 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // this is the user prompt
 const userPrompt = `
-You are an AI Instructional Designer and Subject Matter Expert. Your task is to generate a complete, in-depth, and practical course for the topic "[userInput]" in a specific JSON format.
+You are an expert AI Instructional Designer and University-Level Educator. Your goal is to generate a complete, in-depth, and practical course for the topic [userInput].
 
-The content must be precise, comprehensive, and pedagogically sound, tailored for a learner with a foundational understanding (like a B.Tech student). Avoid generic or superficial explanations; prioritize clarity and depth.
+Your target audience is an intelligent learner with foundational knowledge (like a 4th-year B.Tech student), so you must go beyond simple definitions. Every explanation must be pedagogically sound, clear, and comprehensive, building a deep and intuitive understanding.
 
-The final output MUST be a single, minified JSON object wrapped exactly like \`{"courses": [ { ... course object ... } ]}\`, adhering strictly to the following structure and constraints:
+The final output MUST be a single, minified JSON object wrapped exactly like {"courses": [ { ... course object ... } ]}\.
 
-1.  **Top Level:** The JSON must start with \`{"courses": [\` and end with \`]}\`. Inside the array, there must be only ONE course object.
-2.  **Course Metadata:** The course object MUST include the keys: \`"courseTitle"\` (reflecting the topic), \`"description"\` (a concise, compelling summary of what the learner will achieve), \`"category"\` (choose one from: ["Tech & Coding", "Business & Finance", "Health & Fitness", "Science & Engineering", "Arts & Creativity", "History and Mythology", "Mathematics", "Physics, Chemistry and Biology"]), and \`"difficulty"\` (choose one: "Easy", "Intermediate", "Advanced").
-3.  **Chapters:** The course must contain **EXACTLY 5 chapters**, logically sequenced to build knowledge.
-4.  **Content Per Chapter:** Each chapter must contain a chapter name as **chapterName** key value and **exactly 4 content objects** within its \`"content"\` array.
-5.  **Content Structure:** Each content object MUST have exactly four keys:
-    * \`"topic"\`: A specific, focused sub-topic (3-5 words).
-    * \`"explain"\`: A **comprehensive and clear explanation**. This is the most critical part. It must be **pedagogical** (teach the concept clearly) and **substantive**. Aim for **100-150 words** to ensure sufficient detail. It must break down the "why" and "how," not just the "what."
-    * \`"code"\`: A **concise, correct, and well-commented** code example if the topic is technical (e.g., programming, data science). Use \`null\` if the topic is non-technical (e.g., history, arts).
-    * \`"example"\`: A **concrete, real-world example or case study** that illustrates the topic in practice. This must be distinct from the \`"explain"\` content. Use \`null\` if a practical example is not applicable.
-6.  **Quizzes:** Generate **exactly 12 quiz objects** as **quiz** as key value. Ensure questions are **thought-provoking** and test the *understanding* of the core concepts from the content, not just simple recall. Each object must have \`"question"\`, \`"options"\` (an array of 4 strings), and \`"correctAns"\`.
-7.  **Flashcards:** Generate **exactly 12 flashcard objects** as **flashcards** as key value. The \`"front"\` should be a key term or concept, and the \`"back"\` should be a clear, concise definition or explanation.
-8.  **Q&A:** Generate **exactly 12 question-answer objects** as **qa** as key value. These should reflect common questions a student might have about the material, with **clear, direct, and helpful answers**.
-9.  **CRITICAL RULE FOR VALID JSON:** Ensure that all double quotes (\`"\`) that appear *inside* any JSON string value (like within the \`explain\`, \`code\`, \`example\`, \`question\`, \`answer\`, \`options\`, \`front\`, or \`back\` fields) are properly escaped with a backslash (\`\\\`). For example: \`"print(\\"Hi\\")"\`. This is essential for the JSON to be valid.
+Strict JSON Structure and Content Rules:
+Top Level: Must be {"courses": [ ... ]} containing a single course object.
+
+Course Metadata: The course object MUST include:
+
+"courseTitle": An accurate and compelling title.
+
+"description": A 3-4 sentence summary of what the learner will be able to do after completing the course.
+
+"category": Choose one: ["Tech & Coding", "Business & Finance", "Health & Fitness", "Science & Engineering", "Arts & Creativity", "History and Mythology", "Mathematics", "Physics, Chemistry and Biology"].
+
+"difficulty": Choose one: "Easy", "Intermediate", "Advanced".
+
+Chapters: Exactly 5 chapters, logically sequenced from fundamentals to advanced applications.
+
+Content Per Chapter: Each chapter must have a "chapterName" key and exactly 4 content objects in its "content" array.
+
+Content Object Structure: This is the most critical section. Each object MUST have these four keys with these specific instructions:
+
+"topic": A specific, focused sub-topic (3-5 words).
+
+"explain": This is the core teaching component. It must be a mini-lesson of 120-170 words. Do not just define the topic; you must teach it. To ensure true understanding, every "explain" string MUST follow this internal 4-part structure:
+
+Definition: Start with a clear, concise definition ("What is it?").
+
+Elaboration & Mechanism: Immediately follow with the "how" and "why." How does it work? What are its core components or principles? Why is it structured this way?
+
+Analogy/Simple Context: Provide a simple analogy, metaphor, or a familiar concept to connect the new, abstract idea to something the learner already understands.
+
+Significance & Role: Conclude with why this topic matters. What problem does it solve? What is its specific role in the bigger picture of the course?
+
+"code": If technical, provide a practical, well-commented, and runnable code snippet that directly demonstrates the concept from the "explain" field. It must be more than "Hello World"; it must show the concept in action. Use null if non-technical.
+
+"example": A vivid, real-world case study or application. Go beyond a simple mention. Briefly describe the scenario (e.g., "Imagine a streaming service like Netflix using this algorithm to... because..."). Use null if not applicable.
+
+Quizzes: Generate exactly 12 quiz objects in an array named "quiz". Questions must test application and analysis of the concepts, not just rote memorization. Distractors ("options") should be plausible and based on common misconceptions.
+
+Flashcards: Generate exactly 12 flashcard objects in an array named "flashcards". The "front" should be a key term, and the "back" should be a clear, concise, but complete definition.
+
+Q&A: Generate exactly 12 question-answer objects in an array named "qa". These should address the most common and insightful questions a curious B.Tech student would ask about the material.
+
+CRITICAL JSON RULE: All double quotes (") inside any JSON string value (e.g., in "explain", "code", "options", "answer", etc.) MUST be properly escaped with a backslash (\\). (e.g., "print(\\"Hello\\")").
 `;
 
 export const chatWithGemini = async (userInput) => {
