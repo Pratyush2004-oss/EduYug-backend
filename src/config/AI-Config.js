@@ -44,7 +44,11 @@ Significance & Role: Conclude with why this topic matters. What problem does it 
 
 "example": A vivid, real-world case study or application. Go beyond a simple mention. Briefly describe the scenario (e.g., "Imagine a streaming service like Netflix using this algorithm to... because..."). Use null if not applicable.
 
-Quizzes: Generate exactly 12 quiz objects in an array named "quiz". Questions must test application and analysis of the concepts, not just rote memorization. Distractors ("options") should be plausible and based on common misconceptions.
+Quizzes: Generate exactly 12 quiz objects in an array named "quiz". Each quiz object MUST include the following keys:
+  - "question": the question text.
+  - "options": an array of exactly 4 plausible option strings (distractors should be based on common misconceptions).
+  - "correctAns": the exact option string (one of the entries in "options") that is the correct answer.
+Questions must test application and analysis of the concepts, not just rote memorization.
 
 Flashcards: Generate exactly 12 flashcard objects in an array named "flashcards". The "front" should be a key term, and the "back" should be a clear, concise, but complete definition.
 
